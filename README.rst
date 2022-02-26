@@ -477,7 +477,7 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
 .. raw:: html
    
    <details open>
-      <summary>✨ Contributions</summary>
+      <summary><b>✨ Contributions</b></summary>
       <p align="center">
 
 .. image:: https://github-readme-stats.vercel.app/api/pin/?username=ethereum&repo=web3.py&show_icons=true&theme=dark
@@ -508,7 +508,7 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
 .. raw:: html
    
    <details open>
-      <summary>🚧 Projects</summary>
+      <summary><b>🚧 Projects</b></summary>
       <p align="center">
 
 .. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=Face-Recogntion-Detection&show_icons=true&theme=dark
@@ -532,7 +532,7 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
    </p>
    </details>
 
-.. class:: center
+.. centered::
 
    Contributions are welcome!
 
