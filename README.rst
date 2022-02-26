@@ -288,11 +288,162 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
    :height: 70 px
    :alt: View certificate for MAHMOUD HARMOUCH, Advanced Machine Learning on Google Cloud, offered through Coursera. This specialization focuses on advanced machine learning topics using Google Cloud Platform where you will get hands-on experience optimizing, deploying, and scaling production ML models of various types in hands-on labs. This specialization picks up where “Machine Learning on GCP” left off and teaches you how to build scalable, accurate, and production-ready models for structured data, image data, time-series, and natural language text. It ends with a course on building recommendation systems. Topics introduced in earlier courses are referenced in later courses, so it is recommended that you take the courses in exactly this order.
 
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KBD4XZ5RUVNL/CERTIFICATE_LANDING_PAGE~KBD4XZ5RUVNL.jpeg
+   :target: https://coursera.org/share/a76ed1bfa4fcf048a360d56e581f2e5c
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Image Understanding with TensorFlow on GCP, an online non-credit course authorized by Google Cloud and offered through Coursera
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~R8LYPYVZTH7V/CERTIFICATE_LANDING_PAGE~R8LYPYVZTH7V.jpeg
+   :target: https://coursera.org/share/163f8e3661b3b0e74a0adeffc1d23d9b
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Introduction to Data Science in Python, an online non-credit course authorized by University of Michigan and offered through Coursera
+
+.. Real programmer counts from zero.
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JCLA2LT3VXUB/CERTIFICATE_LANDING_PAGE~JCLA2LT3VXUB.jpeg
+   :target: https://coursera.org/share/85b0813af52b25831ebb6238041b9f76
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Graph Search, Shortest Paths, and Data Structures, an online non-credit course authorized by Stanford University and offered through Coursera
+
+.. An extroverted computer scientist looks at your shoes when he/she/them talk(s) to you.
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~B36VDHLX8E76/CERTIFICATE_LANDING_PAGE~B36VDHLX8E76.jpeg
+   :target: https://coursera.org/share/81587e9dc9f933992814429f6ca2acfc
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Mathematical Biostatistics Boot Camp 2, an online non-credit course authorized by Johns Hopkins University and offered through Coursera
+
+.. I quit my job because i didn't get arrays(a raize).
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TVLR5ZZZA335/CERTIFICATE_LANDING_PAGE~TVLR5ZZZA335.jpeg
+   :target: https://coursera.org/share/ec18a038b88063672372648aa36184af
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Pointers, Arrays, and Recursion, an online non-credit course authorized by Duke University and offered through Coursera
+
+.. Fun fact: The object-oriented way to become wealthy is through inheritance.
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~HJWKJPPCQGGJ/CERTIFICATE_LANDING_PAGE~HJWKJPPCQGGJ.jpeg
+   :target: https://coursera.org/share/ab3845d91e5c3d8ba23f0e4fc3552b62
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, C for Everyone: Programming Fundamentals, an online non-credit course authorized by University of California, Santa Cruz and offered through Coursera
+
+.. I hope that you don't catch a NullCringePointerException.
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KGMY3BCN85SH/CERTIFICATE_LANDING_PAGE~KGMY3BCN85SH.jpeg
+   :target: https://coursera.org/share/ad02915af01f6349aa9521255de6b354
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Shortest Paths Revisited, NP-Complete Problems and What To Do About Them, an online non-credit course authorized by Stanford University and offered through Coursera
+
+.. I hope that you don't catch a NullCringePointerException.
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~8T2M3XJJCS49/CERTIFICATE_LANDING_PAGE~8T2M3XJJCS49.jpeg
+   :target: https://coursera.org/share/ee1ea6e110c3a904d070b134962f7d31
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Recommendation Systems with TensorFlow on GCP, an online non-credit course authorized by Google Cloud and offered through Coursera
+
+.. Why do i even exist?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~3SE5DFSDLANT/CERTIFICATE_LANDING_PAGE~3SE5DFSDLANT.jpeg
+   :target: https://coursera.org/share/7dd06fdb49447c125800c76a10575d93
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Structuring Machine Learning Projects, an online non-credit course authorized by DeepLearning.AI and offered through Coursera
+
+.. Without coffee, there are no programmers.
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~8AJTDA7A5RGP/CERTIFICATE_LANDING_PAGE~8AJTDA7A5RGP.jpeg
+   :target: https://coursera.org/share/38cafb3299393e18cf27145310621182
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Sequence Models for Time Series and Natural Language Processing, an online non-credit course authorized by Google Cloud and offered through Coursera
+
+.. Schrödinger's cat or dog?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~W4Z5JYJUBDVP/CERTIFICATE_LANDING_PAGE~W4Z5JYJUBDVP.jpeg
+   :target: https://coursera.org/share/aa20bfe179decbf3f578c2d138e011ed
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization, an online non-credit course authorized by DeepLearning.AI and offered through Coursera
+
+.. I hope my GF doesn't have one-to-many relationships.
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~22P8HQ88FHEN/CERTIFICATE_LANDING_PAGE~22P8HQ88FHEN.jpeg
+   :target: https://coursera.org/share/ab23e6858e4ac45ede1f618110972a0c
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Cryptography, an online non-credit course authorized by University of Maryland, College Park and offered through Coursera
+
+.. SQL is so underrated. Wanna hear An SQL joke? Knock knock...
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~VEEX2ZEWNJJR/CERTIFICATE_LANDING_PAGE~VEEX2ZEWNJJR.jpeg
+   :target: https://coursera.org/share/2a013f61681d23d17eae59abd6fce963
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, End-to-End Machine Learning with TensorFlow on GCP, an online non-credit course authorized by Google Cloud and offered through Coursera
+
+.. Wanna hear a construction joke? Ummm, i think i am still working on it. No seriously!
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~365T2D6K2VRC/CERTIFICATE_LANDING_PAGE~365T2D6K2VRC.jpeg
+   :target: https://coursera.org/share/d9368f6c067e0961bea2a05bda33fb64
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Introduction to Computer Programming , an online non-credit course authorized by University of London &amp; Goldsmiths, University of London and offered through Coursera
+
+.. Oh, wait! Honors?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~46R3NRWXNW9S/CERTIFICATE_LANDING_PAGE~46R3NRWXNW9S.jpeg
+   :target: https://coursera.org/share/486788c1d1b77d7524559b0a2a93482b
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Cryptographic Hash and Integrity Protection, an online non-credit course authorized by University of Colorado System and offered through Coursera
+
+.. Deep learning is not deeper than you might be thinking.
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4LJ996WBPU6E/CERTIFICATE_LANDING_PAGE~4LJ996WBPU6E.jpeg
+   :target: https://coursera.org/share/90dd3805646249e26465abf12eb2d40a
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Neural Networks and Deep Learning, an online non-credit course authorized by DeepLearning.AI and offered through Coursera
+
+.. AI Singularity?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~QPSMB364TVWC/CERTIFICATE_LANDING_PAGE~QPSMB364TVWC.jpeg
+   :target: https://coursera.org/share/90dd3805646249e26465abf12eb2d40a
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Production Machine Learning Systems, an online non-credit course authorized by Google Cloud and offered through Coursera
+
+.. Zamn, bro. There is lot of cert to add...
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~QPSMB364TVWC/CERTIFICATE_LANDING_PAGE~QPSMB364TVWC.jpeg
+   :target: https://coursera.org/share/c205302fa1398bfebfdb96f8cd747b04
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Production Machine Learning Systems, an online non-credit course authorized by Google Cloud and offered through Coursera
+
+.. Where do my thoughts come from?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~QPSMB364TVWC/CERTIFICATE_LANDING_PAGE~QPSMB364TVWC.jpeg
+   :target: https://coursera.org/share/90dd3805646249e26465abf12eb2d40a
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Production Machine Learning Systems, an online non-credit course authorized by Google Cloud and offered through Coursera
+
+.. What is real? Electrical signals traveled through neurons.
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FG88DYTEN3UN/CERTIFICATE_LANDING_PAGE~FG88DYTEN3UN.jpeg
+   :target: https://coursera.org/share/16627984871898857ad780048d61e70a
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Mathematical Biostatistics Boot Camp 1, an online non-credit course authorized by Johns Hopkins University and offered through Coursera
+
+.. Existence == Materialism?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~PJLBX8PE89U4/CERTIFICATE_LANDING_PAGE~PJLBX8PE89U4.jpeg
+   :target: https://coursera.org/share/05013f1cb0a9ab1a87c993f97eff81b9
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Mastering SQL Joins, an online non-credit course authorized by Coursera Project Network and offered through Coursera
+
+.. Existence == Materialism?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~PJLBX8PE89U4/CERTIFICATE_LANDING_PAGE~PJLBX8PE89U4.jpeg
+   :target: https://coursera.org/share/05013f1cb0a9ab1a87c993f97eff81b9
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Mastering SQL Joins, an online non-credit course authorized by Coursera Project Network and offered through Coursera
+
+.. to be continued
+
 .. raw:: html
 
       </p>
    </details>
-
 
 
 
