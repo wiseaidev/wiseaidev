@@ -24,6 +24,7 @@
 
    <p align="center">
 
+.. uncomment me when public
 .. Visitors Counter badge
 
 .. .. image:: https://komarev.com/ghpvc/?username=harmouch101&style=for-the-badge&color=brightgreen
@@ -47,7 +48,6 @@
    <details>
       <summary><b>🌐 Little About Me</b></summary>
       <p align="left">
-      &nbsp;&nbsp;&nbsp;&nbsp;
 
 I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficient web APIs. 💻 I used to be a crypto day trader(💰) back in the days(at college). ✍🏻 I am occasionally writing articles/blogs as a hobby. An open-source ❤️.
 
@@ -446,7 +446,6 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
    </details>
 
 
-
 📊 Some Cool Stats
 ==================
 
@@ -460,8 +459,77 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
    :target: https://github-readme-stats.vercel.app/api?username=harmouch101&show_icons=true&theme=dark
    :alt: GitHub Stats
 
+.. uncomment me when public
+
+.. .. image:: https://starchart.cc/Harmouch101/Harmouch101.svg
+..    :target: https://starchart.cc/Harmouch101/Harmouch101
+..    :alt: Stargazers over time
+
 .. raw:: html
 
    </p>
    </details>
 
+
+📊 Contributions & Projects
+===========================
+
+.. raw:: html
+   
+   <details>
+      <summary>✨ Contributions</summary>
+      <p align="center">
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=ethereum&repo=web3.py&show_icons=true&theme=dark
+   :target: https://github.com/ethereum/web3.py
+   :alt: A python interface for interacting with the Ethereumblockchain and ecosystem.
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=ianare&repo=exif-py&show_icons=true&theme=dark
+   :target: https://github.com/ianare/exif-py
+   :alt: Easy to use Python module to extract Exif metadata from digital image files.
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=tchapi&repo=markdown-cheatsheet&show_icons=true&theme=dark
+   :target: https://github.com/tchapi/markdown-cheatsheet
+   :alt: Markdown Cheatsheet for Github Readme.md
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=python&repo=typeshed&show_icons=true&theme=dark
+   :target: https://github.com/python/typeshed
+   :alt: Collection of library stubs for Python, with static types
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=eclipse-zenoh&repo=zenoh-python&show_icons=true&theme=dark
+   :target: https://github.com/eclipse-zenoh/zenoh-python
+   :alt: Python API for zenoh
+
+.. raw:: html
+
+   </p>
+   </details>
+
+.. raw:: html
+   
+   <details>
+      <summary>🚧 Projects</summary>
+      <p align="center">
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=Face-Recogntion-Detection&show_icons=true&theme=dark
+   :target: https://github.com/harmouch101/Face-Recogntion-Detection 
+   :alt: Opencv Implementations
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=Tracking-the-ISS-using-Python&show_icons=true&theme=dark
+   :target: https://github.com/Harmouch101/Tracking-the-ISS-using-Python
+   :alt: visualize the international space station
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=pydist2&show_icons=true&theme=dark
+   :target: https://github.com/harmouch101/pydist2
+   :alt: A python library for computing distances.
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=Corona-virus-data-analysis-modeling-and-visualization&show_icons=true&theme=dark
+   :target: https://github.com/Harmouch101/Corona-virus-data-analysis-modeling-and-visualization
+   :alt: Data analysis of covid-19 and SEIRD model implementation.
+
+.. raw:: html
+
+   </p>
+   </details>
+
+Contributions are welcome! ❤️
