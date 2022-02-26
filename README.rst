@@ -27,7 +27,7 @@
 .. uncomment me when public
 .. Visitors Counter badge
 
-.. image:: https://komarev.com/ghpvc/?username=harmouch101&style=for-the-badge&theme=dark&color=lightgrey
+.. image:: https://komarev.com/ghpvc/?username=harmouch101&style=for-the-badge&theme=dark&color=grey
    :align: center
    :alt: Visitors Counter
 
