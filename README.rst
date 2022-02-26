@@ -198,7 +198,7 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
 
 .. raw:: html
    
-   <details open>
+   <details>
       <summary><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=blue&color=black" alt="Coursera Logo"></summary>
       <p align="center">
 
