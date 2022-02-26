@@ -459,6 +459,10 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
    :target: https://github-readme-stats.vercel.app/api?username=harmouch101&show_icons=true&theme=dark
    :alt: GitHub Stats
 
+.. image:: https://github-readme-streak-stats.herokuapp.com/?user=harmouch101&theme=dark
+   :target: https://github-readme-streak-stats.herokuapp.com/?user=harmouch101&theme=dark
+   :alt: Another cool GitHub Stats
+
 .. uncomment me when public
 
 .. .. image:: https://starchart.cc/Harmouch101/Harmouch101.svg
