@@ -27,9 +27,16 @@
 .. uncomment me when public
 .. Visitors Counter badge
 
-.. .. image:: https://komarev.com/ghpvc/?username=harmouch101&style=for-the-badge&color=brightgreen
-..    :align: center
-..    :alt: Visitors Counter
+.. image:: https://komarev.com/ghpvc/?username=harmouch101&style=for-the-badge&color=brightgreen
+   :align: center
+   :alt: Visitors Counter
+
+.. PGP key
+
+.. image:: https://img.shields.io/badge/pgp-0x5D32A29D5F6510AE-313131?style=for-the-badge&theme=dark
+   :target: https://keybase.io/harmouch/pgp_keys.asc
+   :align: center
+   :alt: Visitors Counter
 
 .. Banner
 
@@ -463,7 +470,7 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
    :target: https://github-readme-streak-stats.herokuapp.com/?user=harmouch101&theme=dark
    :alt: Another cool GitHub Stats
 
-.. uncomment me when public
+.. uncomment me when if add support for background color control
 
 .. .. image:: https://starchart.cc/Harmouch101/Harmouch101.svg
 ..    :target: https://starchart.cc/Harmouch101/Harmouch101
