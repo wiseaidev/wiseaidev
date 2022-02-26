@@ -45,7 +45,7 @@
 
 .. raw:: html
    
-   <details>
+   <details open>
       <summary><b>🌐 Little About Me</b></summary>
       <p align="left">
 
@@ -87,7 +87,7 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
 
 .. raw:: html
    
-   <details>
+   <details open>
       <summary><b>🪡 IDEs/Editors</b></summary>
       <p align="center">
       &nbsp;&nbsp;&nbsp;&nbsp;
@@ -131,7 +131,7 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
 
 .. raw:: html
    
-   <details>
+   <details open>
       <summary><b>🎈 Hosting/SaaS</b></summary>
       <p align="center">
       &nbsp;&nbsp;&nbsp;&nbsp;
@@ -150,7 +150,7 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
 
 .. raw:: html
 
-   <details>
+   <details open>
       <summary><b>📋 Programming languages</b></summary>
       <p align="center">
       &nbsp;&nbsp;&nbsp;&nbsp;
@@ -198,7 +198,7 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
 
 .. raw:: html
    
-   <details>
+   <details open>
       <summary><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=blue&color=black" alt="Coursera Logo"></summary>
       <p align="center">
 
@@ -451,7 +451,7 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
 
 .. raw:: html
    
-   <details>
+   <details open>
       <summary><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Logo"/></summary>
       <p align="center">
 
@@ -476,7 +476,7 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
 
 .. raw:: html
    
-   <details>
+   <details open>
       <summary>✨ Contributions</summary>
       <p align="center">
 
@@ -507,7 +507,7 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
 
 .. raw:: html
    
-   <details>
+   <details open>
       <summary>🚧 Projects</summary>
       <p align="center">
 
@@ -532,4 +532,8 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
    </p>
    </details>
 
-Contributions are welcome! ❤️
+.. class:: center
+
+   Contributions are welcome!
+
+   © 2022 Mahmoud Harmouch, all rights reserved. Made with ❤️
