@@ -532,8 +532,10 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
    </p>
    </details>
 
-.. centered::
+.. raw:: html
 
-   Contributions are welcome!
+   <p align="center">
+      © 2022 Mahmoud Harmouch, all rights reserved. Made with ❤️<br/>
+      Contributions are welcome!
+   </p>
 
-   © 2022 Mahmoud Harmouch, all rights reserved. Made with ❤️
