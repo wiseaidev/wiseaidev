@@ -540,6 +540,10 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
    :target: https://github.com/Harmouch101/Corona-virus-data-analysis-modeling-and-visualization
    :alt: Data analysis of covid-19 and SEIRD model implementation.
 
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=awesome-pycon-notes&show_icons=true&theme=dark
+   :target: https://github.com/Harmouch101/awesome-pycon-notes
+   :alt: books A collection of python notes was taken while watching every damn pycon video on YT tv and other resources like books, official documentation and such.
+
 .. raw:: html
 
    </p>
