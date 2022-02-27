@@ -56,13 +56,10 @@
       <summary><b>🌐 Little About Me</b></summary>
       <p align="left">
 
-I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficient web APIs. 💻 I used to be a crypto day trader(💰) back in the days(at college). ✍🏻 I am occasionally writing articles/blogs as a hobby. An open-source ❤️.
+I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficient web APIs. 💻 I used to be a crypto day trader 💰 back in the days(at college). ✍🏻 I am occasionally writing articles/blogs as a hobby. An open-source ❤️.
 
 - 🎓 Diploma in electrical engineering.
-- 💻 Learning from Real Python and Pycon on YT.
-- 📚 Reading <David M. Beazley> , <Brandon Rhodes> books.
-- 🏋️‍♂️ I am willing to change the universe, one byte at a time.
-- 👨‍💻 Read more about my projects on 𝗠𝗘𝗗𝗜𝗨𝗠(Coming back soon!!!).
+- 🏋️‍♂️ I am willing to learn everything, one byte at a time.
 - 👯 I’m looking to collaborate with other programmers on big projects.
 - 💬 Ask me anything related to Java, Python and/or React, FastAPI, Django.
 - 🌱 I’m currently sharpening my swiss knives in everything related to coding.
@@ -85,7 +82,11 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
       <a href="mailto:eng.mahmoudharmouch@gmail.com?subject=[GitHub]%20New%20Visitor">
          <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red&color=black" alt="Gmail logo" height="28 px"/>
       </a>
+      <a href="https://keybase.io/harmouch">
+         <img align="center" src="https://img.shields.io/badge/pgp-0x5D32A29D5F6510AE-313131?style=for-the-badge&theme=dark" alt="Keybase" height="28 px"/>
+      </a>
    </p>
+
 
 🛠️  Skills & Technologies
 =========================
@@ -444,6 +445,7 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
    :target: https://coursera.org/share/05013f1cb0a9ab1a87c993f97eff81b9
    :height: 70 px
    :alt: View certificate for MAHMOUD HARMOUCH, Mastering SQL Joins, an online non-credit course authorized by Coursera Project Network and offered through Coursera
+
 
 .. to be continued
 
