@@ -24,7 +24,6 @@
 
    <p align="center">
 
-.. uncomment me when public
 .. Visitors Counter badge
 
 .. image:: https://komarev.com/ghpvc/?username=harmouch101&style=for-the-badge&theme=dark&color=grey
@@ -46,6 +45,11 @@
 
 .. raw:: html
 
+   </p>
+
+   <p align="left">
+      &nbsp;&nbsp;&nbsp;&nbsp;Mahmoud<br/>
+      <blockquote>/Mah-MOOD/</blockquote>
    </p>
 
 .. little about me
@@ -439,13 +443,110 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
    :height: 70 px
    :alt: View certificate for MAHMOUD HARMOUCH, Mastering SQL Joins, an online non-credit course authorized by Coursera Project Network and offered through Coursera
 
-.. Existence == Materialism?
+.. Would you rather be alive and alone or about to die with a group of friends?
 
-.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~PJLBX8PE89U4/CERTIFICATE_LANDING_PAGE~PJLBX8PE89U4.jpeg
-   :target: https://coursera.org/share/05013f1cb0a9ab1a87c993f97eff81b9
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~RAPU9GV772DA/CERTIFICATE_LANDING_PAGE~RAPU9GV772DA.jpeg
+   :target: https://coursera.org/share/31d14a9c2e7b9e6f80182de4944e7c2a
    :height: 70 px
-   :alt: View certificate for MAHMOUD HARMOUCH, Mastering SQL Joins, an online non-credit course authorized by Coursera Project Network and offered through Coursera
+   :alt: View certificate for MAHMOUD HARMOUCH,  IT Security: Defense against the digital dark arts , an online non-credit course authorized by Google and offered through Coursera
 
+.. Do you think if anything is possible, it’s still possible for anything to be impossible?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~C22ZNPSL2NFH/CERTIFICATE_LANDING_PAGE~C22ZNPSL2NFH.jpeg
+   :target: https://coursera.org/share/0e779be615f81892000927c29c68fe74
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Concurrency in Go, an online non-credit course authorized by University of California, Irvine and offered through Coursera
+
+.. Is there a limit to how intelligent a single person can be?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ATXHNGW3UT3J/CERTIFICATE_LANDING_PAGE~ATXHNGW3UT3J.jpeg
+   :target: https://coursera.org/share/5d597194c3e8a0e2a62b75dcf3178446
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Advanced Styling with Responsive Design, an online non-credit course authorized by University of Michigan and offered through Coursera
+
+.. If we developed from monkeys, then why in hell do we still have monkeys?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~W5ZPRBGJUVCZ/CERTIFICATE_LANDING_PAGE~W5ZPRBGJUVCZ.jpeg
+   :target: https://coursera.org/share/bd5c65e9094a418d8772a7e3257e6ecf
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Blockchain Transformations of Financial Services, an online non-credit course authorized by INSEAD and offered through Courser Coursera
+
+.. Is there a limit to how intelligent a single person can be?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~3VCXMFLUB7ZC/CERTIFICATE_LANDING_PAGE~3VCXMFLUB7ZC.jpeg
+   :target: https://coursera.org/share/7963e928d15c159e2452b2e7ff25934b
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Identifying Security Vulnerabilities in C/C++Programming, an online non-credit course authorized by University of California, Davis and offered through Coursera
+
+.. If you had the chance to invent a country, what would you name it? Obviously not "Lebanon"
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~DZVMZMYHSW92/CERTIFICATE_LANDING_PAGE~DZVMZMYHSW92.jpeg
+   :target: https://coursera.org/share/99bd0f478957179f7b6d1ea562386820
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH,  System Administration and IT Infrastructure Services, an online non-credit course authorized by Google and offered through Coursera
+
+.. What’s the color of the mirror?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~DZVMZMYHSW92/CERTIFICATE_LANDING_PAGE~DZVMZMYHSW92.jpeg
+   :target: https://coursera.org/share/99bd0f478957179f7b6d1ea562386820
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH,  System Administration and IT Infrastructure Services, an online non-credit course authorized by Google and offered through Coursera
+
+.. Which superpower would you not want?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SW6629AXSF8J/CERTIFICATE_LANDING_PAGE~SW6629AXSF8J.jpeg
+   :target: https://coursera.org/share/a26d190d550afd902189d95092061d64
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Divide and Conquer, Sorting and Searching, and Randomized Algorithms, an online non-credit course authorized by Stanford University and offered through Coursera
+
+.. Will someone ever be able to live forever?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UJLJV2ETTM8X/CERTIFICATE_LANDING_PAGE~UJLJV2ETTM8X.jpeg
+   :target: https://coursera.org/share/e47e0febb38e3bb894305381614132db
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Symmetric Cryptography, an online non-credit course authorized by University of Colorado System and offered through Coursera
+
+.. Is your time truly wasted if you enjoy wasting it?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~F7DVVMRTPM5Q/CERTIFICATE_LANDING_PAGE~F7DVVMRTPM5Q.jpeg
+   :target: https://coursera.org/share/8213b0c0251a733761f6aba016f1b833
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Proactive Computer Security, an online non-credit course authorized by University of Colorado System and offered through Coursera
+
+.. What is the highest number that anyone has ever counted?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~9U9TW5UH27C6/CERTIFICATE_LANDING_PAGE~9U9TW5UH27C6.jpeg
+   :target: https://coursera.org/share/e26d6c802dfad191f1f47929d8715c31
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Data Structures and Performance, an online non-credit course authorized by University of California San Diego and offered through Coursera
+
+..  Why 11 isn’t pronounced onety-one?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NG8X99R9VWGX/CERTIFICATE_LANDING_PAGE~NG8X99R9VWGX.jpeg
+   :target: https://coursera.org/share/a16e1b64e7753cb9603a07790469386b
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Operating Systems and You: Becoming a Power User, an online non-credit course authorized by Google and offered through Coursera
+
+..  Are we really living or just slowly dying?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~7LUAPFS54L8X/CERTIFICATE_LANDING_PAGE~7LUAPFS54L8X.jpeg
+   :target: https://coursera.org/share/eca242b53cc3a88d33e80e9fe7e58939
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Data Wrangling, Analysis and AB Testing with SQL, an online non-credit course authorized by University of California, Davis and offered through Coursera
+
+..  What’s the weirdest job you’ve ever had?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~QHZ5L2PW4XTN/CERTIFICATE_LANDING_PAGE~QHZ5L2PW4XTN.jpeg
+   :target: https://coursera.org/share/677b6043333db5fe1c65a3f5e9f65505
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Detecting and Mitigating Cyber Threats and Attacks, an online non-credit course authorized by University of Colorado System and offered through Coursera
+
+..  Do stairs go up or go down?
+
+.. image:: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~Q3HNFYH7LYQB/CERTIFICATE_LANDING_PAGE~Q3HNFYH7LYQB.jpeg
+   :target: https://coursera.org/share/363c59fa8454cf2b79f1897784ff8331
+   :height: 70 px
+   :alt: View certificate for MAHMOUD HARMOUCH, Functions, Methods, and Interfaces in Go, an online non-credit course authorized by University of California, Irvine and offered through Coursera
 
 .. to be continued
 
@@ -528,9 +629,13 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
    :target: https://github.com/harmouch101/Face-Recogntion-Detection 
    :alt: Opencv Implementations
 
-.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=Tracking-the-ISS-using-Python&show_icons=true&theme=dark
-   :target: https://github.com/Harmouch101/Tracking-the-ISS-using-Python
-   :alt: visualize the international space station
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=awesome-pycon-notes&show_icons=true&theme=dark
+   :target: https://github.com/Harmouch101/awesome-pycon-notes
+   :alt: books A collection of python notes was taken while watching every damn pycon video on YT tv and other resources like books, official documentation and such.
+
+.. .. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=Tracking-the-ISS-using-Python&show_icons=true&theme=dark
+..    :target: https://github.com/Harmouch101/Tracking-the-ISS-using-Python
+..    :alt: visualize the international space station
 
 .. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=pydist2&show_icons=true&theme=dark
    :target: https://github.com/harmouch101/pydist2
@@ -539,10 +644,6 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
 .. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=Corona-virus-data-analysis-modeling-and-visualization&show_icons=true&theme=dark
    :target: https://github.com/Harmouch101/Corona-virus-data-analysis-modeling-and-visualization
    :alt: Data analysis of covid-19 and SEIRD model implementation.
-
-.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=awesome-pycon-notes&show_icons=true&theme=dark
-   :target: https://github.com/Harmouch101/awesome-pycon-notes
-   :alt: books A collection of python notes was taken while watching every damn pycon video on YT tv and other resources like books, official documentation and such.
 
 .. raw:: html
 
