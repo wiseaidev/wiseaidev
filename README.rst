@@ -14,10 +14,10 @@
 
 .. raw:: html
 
-   <p align="center">
-      <img src="https://c.tenor.com/_4xCiEhhoZsAAAAM/dog-smile.gif" style="width:50px;height:50px;" alt="Wat da dog doin!" />
+   <p align="center" >
+      <img src="https://c.tenor.com/_4xCiEhhoZsAAAAM/dog-smile.gif"  width = "50px" height = "50px" alt="Wat dat dog doin!" />
       <span style="font-size:24px; font-weight:bold; vertical-align:top; line-height:50px;">Howdy, stranger!</span>
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:40px; height:40px; vertical-align:top; line-height:60px;" />
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "50px" height = "50px"/>
    </p>
 
 .. raw:: html
@@ -27,13 +27,6 @@
 .. Visitors Counter badge
 
 .. image:: https://komarev.com/ghpvc/?username=harmouch101&style=for-the-badge&theme=dark&color=grey
-   :align: center
-   :alt: Visitors Counter
-
-.. PGP key
-
-.. image:: https://img.shields.io/badge/pgp-0x5D32A29D5F6510AE-313131?style=for-the-badge&theme=dark
-   :target: https://keybase.io/harmouch/pgp_keys.asc
    :align: center
    :alt: Visitors Counter
 
@@ -47,6 +40,12 @@
 
    </p>
 
+   <p align="center">
+      I am building my knowledge <br>
+      on the moon, <br>
+      like a lost, astronaut.
+   </p>
+
    <p align="left">
       &nbsp;&nbsp;&nbsp;&nbsp;Mahmoud<br/>
       <blockquote>/Mah-MOOD/</blockquote>
@@ -55,12 +54,10 @@
 .. little about me
 
 .. raw:: html
-   
-   <details open>
+
+   <details>
       <summary><b>🌐 Little About Me</b></summary>
       <p align="left">
-
-I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficient web APIs. 💻 I used to be a crypto day trader 💰 back in the days(at college). ✍🏻 I am occasionally writing articles/blogs as a hobby. An open-source ❤️.
 
 - 🎓 Diploma in electrical engineering.
 - 🏋️‍♂️ I am willing to learn everything, one byte at a time.
@@ -79,7 +76,7 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
 
 .. raw:: html
 
-   <p align="left">
+   <p align="center">
       <a href="https://linkedin.com/in/mahmoud-harmouch">
          <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&&logoColor=blue&color=black" alt="Linkedin logo" height="28 px"/>
       </a>
@@ -548,6 +545,8 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
    :height: 70 px
    :alt: View certificate for MAHMOUD HARMOUCH, Functions, Methods, and Interfaces in Go, an online non-credit course authorized by University of California, Irvine and offered through Coursera
 
+
+
 .. to be continued
 
 .. raw:: html
@@ -629,9 +628,9 @@ I am a self-taught programmer 👨‍💻. I can build secure, scalable, efficie
    :target: https://github.com/harmouch101/Face-Recogntion-Detection 
    :alt: Opencv Implementations
 
-.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=awesome-pycon-notes&show_icons=true&theme=dark
-   :target: https://github.com/Harmouch101/awesome-pycon-notes
-   :alt: books A collection of python notes was taken while watching every damn pycon video on YT tv and other resources like books, official documentation and such.
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=awesome-python&show_icons=true&theme=dark
+   :target: https://github.com/Harmouch101/awesome-python
+   :alt: A collection of python notes was taken while watching every damn pycon video on YT tv and other resources like books, official documentation and such.
 
 .. .. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=Tracking-the-ISS-using-Python&show_icons=true&theme=dark
 ..    :target: https://github.com/Harmouch101/Tracking-the-ISS-using-Python
