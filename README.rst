@@ -12,195 +12,6 @@
 .. Github doesn't seem to render align directives, use html
 .. <div style="text-align:center;> doesn't wprk, use <p align="center">
 
-.. raw:: html
-
-   <p align="center" >
-      <img src="https://c.tenor.com/_4xCiEhhoZsAAAAM/dog-smile.gif"  width = "50px" height = "50px" alt="Wat dat dog doin!" />
-      <span style="font-size:24px; font-weight:bold; vertical-align:top; line-height:50px;">Howdy, stranger!</span>
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "50px" height = "50px"/>
-   </p>
-
-.. raw:: html
-
-   <p align="center">
-
-.. Visitors Counter badge
-
-.. image:: https://komarev.com/ghpvc/?username=harmouch101&style=for-the-badge&theme=dark&color=grey
-   :align: center
-   :alt: Visitors Counter
-
-.. Banner
-
-.. image:: ./assets/banner.png
-   :align: center
-   :alt: Banner
-
-.. raw:: html
-
-   </p>
-
-   <p align="center">
-      I am building my knowledge <br>
-      on the moon, <br>
-      like a lost, astronaut.
-   </p>
-
-   <p align="left">
-      &nbsp;&nbsp;&nbsp;&nbsp;Mahmoud<br/>
-      <blockquote>/Mah-MOOD/</blockquote>
-   </p>
-
-.. little about me
-
-.. raw:: html
-
-   <details>
-      <summary><b>🌐 Little About Me</b></summary>
-      <p align="left">
-
-- 🎓 Diploma in electrical engineering.
-- 🏋️‍♂️ I am willing to learn everything, one byte at a time.
-- 👯 I’m looking to collaborate with other programmers on big projects.
-- 💬 Ask me anything related to Java, Python and/or React, FastAPI, Django.
-- 🌱 I’m currently sharpening my swiss knives in everything related to coding.
-- ⚡ Fun facts: My favorite animal is a dog because they're so energetic and friendly.
-- 🥅 2022 Goals: Broaden my knowledge in Ethereum, Dapps, Solidity, Glow...
-
-.. raw:: html
-   
-   </details>
-
-💬 Text me
-==========
-
-.. raw:: html
-
-   <p align="center">
-      <a href="https://linkedin.com/in/mahmoud-harmouch">
-         <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&&logoColor=blue&color=black" alt="Linkedin logo" height="28 px"/>
-      </a>
-      <a href="mailto:eng.mahmoudharmouch@gmail.com?subject=[GitHub]%20New%20Visitor">
-         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red&color=black" alt="Gmail logo" height="28 px"/>
-      </a>
-      <a href="https://keybase.io/harmouch">
-         <img align="center" src="https://img.shields.io/badge/pgp-0x5D32A29D5F6510AE-313131?style=for-the-badge&theme=dark" alt="Keybase" height="28 px"/>
-      </a>
-   </p>
-
-
-🛠️  Skills & Technologies
-=========================
-
-.. 🪡 IDEs/Editors section
-
-.. raw:: html
-   
-   <details open>
-      <summary><b>🪡 IDEs/Editors</b></summary>
-      <p align="center">
-      &nbsp;&nbsp;&nbsp;&nbsp;
-
-.. Sublime Text	 logo
-
-.. image:: https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important&color=black
-   :alt: Sublime Text logo
-
-.. Visual Studio Code logo
-
-.. image:: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=black
-   :alt: Visual Studio Code logo
-
-.. jupyter logo
-
-.. image:: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=important&color=black
-   :alt: jupyter logo
-
-.. emacs logo
-
-.. image:: https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=purple&color=black
-   :alt: emacs logo
-
-.. atom logo
-
-.. image:: https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=green&color=black
-   :alt: atom logo
-
-.. Vim logo
-
-.. image:: https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=green&color=black
-   :alt: Vim logo
-
-.. raw:: html
-
-   </p>
-   </details>
-
-.. 🎈 Hosting/SaaS section
-
-.. raw:: html
-   
-   <details open>
-      <summary><b>🎈 Hosting/SaaS</b></summary>
-      <p align="center">
-      &nbsp;&nbsp;&nbsp;&nbsp;
-
-.. AWS logo
-
-.. image:: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=yellow&color=black
-   :alt: AWS logo
-
-.. raw:: html
-
-   </p>
-   </details>
-
-.. 📋 Programming languages section
-
-.. raw:: html
-
-   <details open>
-      <summary><b>📋 Programming languages</b></summary>
-      <p align="center">
-      &nbsp;&nbsp;&nbsp;&nbsp;
-
-.. python image logo
-
-.. image:: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=yellow&color=black
-   :alt: Python Logo
-
-.. Java logo
-
-.. image:: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=red&color=black
-   :alt: Java logo
-
-.. C logo
-
-.. image:: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=blue&color=black
-   :alt: C logo
-
-.. C++ logo
-
-.. image:: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue&color=black
-   :alt: C++ logo
-
-.. C# logo
-
-.. image:: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=purple&color=black
-   :alt: C# logo
-
-.. Markdown logo
-
-.. image:: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=blue&color=black
-   :alt: Markdown logo
-
-.. raw:: html
-
-   </p>
-   </details>
-
-.. 🎉 Certifications; Like who cares, right?
-.. Bear in mind, Certifications are not enough. Is it worth it?
 
 🎉  Certifications
 ==================
@@ -555,35 +366,6 @@
    </details>
 
 
-📊 Some Cool Stats
-==================
-
-.. raw:: html
-   
-   <details open>
-      <summary><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Logo"/></summary>
-      <p align="center">
-
-.. image:: https://github-readme-stats.vercel.app/api?username=harmouch101&show_icons=true&theme=dark
-   :target: https://github-readme-stats.vercel.app/api?username=harmouch101&show_icons=true&theme=dark
-   :alt: GitHub Stats
-
-.. image:: https://github-readme-streak-stats.herokuapp.com/?user=harmouch101&theme=dark
-   :target: https://github-readme-streak-stats.herokuapp.com/?user=harmouch101&theme=dark
-   :alt: Another cool GitHub Stats
-
-.. uncomment me when if add support for background color control
-
-.. .. image:: https://starchart.cc/Harmouch101/Harmouch101.svg
-..    :target: https://starchart.cc/Harmouch101/Harmouch101
-..    :alt: Stargazers over time
-
-.. raw:: html
-
-   </p>
-   </details>
-
-
 📊 Contributions & Projects
 ===========================
 
@@ -632,10 +414,6 @@
    :target: https://github.com/Harmouch101/awesome-python
    :alt: A collection of python notes was taken while watching every damn pycon video on YT tv and other resources like books, official documentation and such.
 
-.. .. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=Tracking-the-ISS-using-Python&show_icons=true&theme=dark
-..    :target: https://github.com/Harmouch101/Tracking-the-ISS-using-Python
-..    :alt: visualize the international space station
-
 .. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=pydist2&show_icons=true&theme=dark
    :target: https://github.com/harmouch101/pydist2
    :alt: A python library for computing distances.
@@ -644,15 +422,15 @@
    :target: https://github.com/Harmouch101/Corona-virus-data-analysis-modeling-and-visualization
    :alt: Data analysis of covid-19 and SEIRD model implementation.
 
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=frozndict&show_icons=true&theme=dark
+   :target: https://github.com/Harmouch101/frozndict
+   :alt: frozndict is a memory efficient immutable dictionary.
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=deepwordle&show_icons=true&theme=dark
+   :target: https://github.com/Harmouch101/deepwordle
+   :alt: deepwordle is a wordle clone game powered by deepgram, textual, tweepy, and friends.
+
 .. raw:: html
 
    </p>
    </details>
-
-.. raw:: html
-
-   <p align="center">
-      © 2022 Mahmoud Harmouch, all rights reserved. Made with ❤️<br/>
-      Contributions are welcome!
-   </p>
-
