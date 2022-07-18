@@ -406,28 +406,28 @@
       <summary><b>🚧 Projects</b></summary>
       <p align="center">
 
-.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=Face-Recogntion-Detection&show_icons=true&theme=dark
-   :target: https://github.com/harmouch101/Face-Recogntion-Detection 
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=Face-Recogntion-Detection&show_icons=true&theme=dark
+   :target: https://github.com/wiseaidev/Face-Recogntion-Detection 
    :alt: Opencv Implementations
 
-.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=awesome-python&show_icons=true&theme=dark
-   :target: https://github.com/Harmouch101/awesome-python
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=awesome-python&show_icons=true&theme=dark
+   :target: https://github.com/wiseaidev/awesome-python
    :alt: A collection of python notes was taken while watching every damn pycon video on YT tv and other resources like books, official documentation and such.
 
-.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=pydist2&show_icons=true&theme=dark
-   :target: https://github.com/harmouch101/pydist2
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=pydist2&show_icons=true&theme=dark
+   :target: https://github.com/wiseaidev/pydist2
    :alt: A python library for computing distances.
 
-.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=Corona-virus-data-analysis-modeling-and-visualization&show_icons=true&theme=dark
-   :target: https://github.com/Harmouch101/Corona-virus-data-analysis-modeling-and-visualization
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=Corona-virus-data-analysis-modeling-and-visualization&show_icons=true&theme=dark
+   :target: https://github.com/wiseaidev/Corona-virus-data-analysis-modeling-and-visualization
    :alt: Data analysis of covid-19 and SEIRD model implementation.
 
-.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=frozndict&show_icons=true&theme=dark
-   :target: https://github.com/Harmouch101/frozndict
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=frozndict&show_icons=true&theme=dark
+   :target: https://github.com/wiseaidev/frozndict
    :alt: frozndict is a memory efficient immutable dictionary.
 
-.. image:: https://github-readme-stats.vercel.app/api/pin/?username=harmouch101&repo=deepwordle&show_icons=true&theme=dark
-   :target: https://github.com/Harmouch101/deepwordle
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=deepwordle&show_icons=true&theme=dark
+   :target: https://github.com/wiseaidev/deepwordle
    :alt: deepwordle is a wordle clone game powered by deepgram, textual, tweepy, and friends.
 
 .. raw:: html
