@@ -12,6 +12,15 @@
 .. Github doesn't seem to render align directives, use html
 .. <div style="text-align:center;> doesn't wprk, use <p align="center">
 
+.. raw:: html
+
+   <p align="center">
+      <a href="https://keybase.io/wiseai">
+         <img align="center" src="https://img.shields.io/badge/pgp-0xFC8641B71E19147B-313131?style=for-the-badge&theme=dark" alt="PGP Key" height="28 px"/>
+      </a>
+   </p>
+
+
 
 🎉  Certifications
 ==================
@@ -371,7 +380,7 @@
 
 .. raw:: html
    
-   <details open>
+   <details>
       <summary><b>✨ Contributions</b></summary>
       <p align="center">
 
