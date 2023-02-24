@@ -439,6 +439,30 @@
    :target: https://github.com/wiseaidev/deepwordle
    :alt: deepwordle is a wordle clone game powered by deepgram, textual, tweepy, and friends.
 
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=brave-chat&repo=brave-chat&show_icons=true&theme=dark
+   :target: https://github.com/brave-chat/brave-chat
+   :alt: The ultimate slack alternative built with React, MUI, Redux, and friends.
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=brave-chat&repo=brave-chat-server&show_icons=true&theme=dark
+   :target: https://github.com/brave-chat/brave-chat-server
+   :alt: Brave Chat server powered by FastAPI, SQLAlchemy, Redis, SingleStoreDB and friends.
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=brave-date&repo=brave-date&show_icons=true&theme=dark
+   :target: https://github.com/brave-date/brave-date
+   :alt: The ultimate Tinder clone built with React, MUI, Redux, and friends.
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=brave-date&repo=brave-date-server&show_icons=true&theme=dark
+   :target: https://github.com/brave-date/brave-date-server
+   :alt: Brave Date server powered by FastAPI, ODMantic, MongoDB, Deta, and friends.
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=moerphous&repo=moerphous&show_icons=true&theme=dark
+   :target: https://github.com/moerphous/moerphous
+   :alt: The Ultimate XRPL NFT marketplace built with React, MUI, Redux, and friends.
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=moerphous&repo=moerphous-server&show_icons=true&theme=dark
+   :target: https://github.com/moerphous/moerphous-server
+   :alt: Moerphous server powered by FastAPI, ODMantic, MongoDB, PinataPY, XRPL-PY and friends.
+
 .. raw:: html
 
    </p>
