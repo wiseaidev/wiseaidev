@@ -381,7 +381,7 @@
 .. raw:: html
    
    <details>
-      <summary><b>✨ Contributions</b></summary>
+      <summary open><b>✨ Contributions</b></summary>
       <p align="center">
 
 .. image:: https://github-readme-stats.vercel.app/api/pin/?username=ethereum&repo=web3.py&show_icons=true&theme=dark
@@ -403,6 +403,18 @@
 .. image:: https://github-readme-stats.vercel.app/api/pin/?username=eclipse-zenoh&repo=zenoh-python&show_icons=true&theme=dark
    :target: https://github.com/eclipse-zenoh/zenoh-python
    :alt: Python API for zenoh
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=redis&repo=redis-om-python&show_icons=true&theme=dark
+   :target: https://github.com/redis/redis-om-python
+   :alt: Object mapping, and more, for Redis and Python 
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=forem&repo=forem&show_icons=true&theme=dark
+   :target: https://github.com/forem/forem
+   :alt: For empowering community
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=rottingresearch&repo=linkrot&show_icons=true&theme=dark
+   :target: https://github.com/rottingresearch/linkrot
+   :alt: This Python program scans pdfs and websites for links and checks if the links are active or return an error code. 
 
 .. raw:: html
 
