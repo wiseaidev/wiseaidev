@@ -475,6 +475,22 @@
    :target: https://github.com/moerphous/moerphous-server
    :alt: Moerphous server powered by FastAPI, ODMantic, MongoDB, PinataPY, XRPL-PY and friends.
 
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=inclusive-web-hub&repo=flexify&show_icons=true&theme=dark
+   :target: https://github.com/inclusive-web-hub/flexify
+   :alt: The ultimate add-on that empowers you to customize any website on the internet with a click of a button.
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=fine-dashboard&show_icons=true&theme=dark
+   :target: https://github.com/wiseaidev/fine-dashboard
+   :alt: An admin panel/dashboard with persistent storage powered by Refine, Supabase, RTK, RTK Query and friends.
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=truth-guard&show_icons=true&theme=dark
+   :target: https://github.com/wiseaidev/truth-guard
+   :alt: An admin panel/dashboard with persistent storage powered by Refine, Supabase, RTK, RTK Query and friends.
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=hill-climb&repo=game&show_icons=true&theme=dark
+   :target: https://github.com/hill-climb/game
+   :alt: A web3 clone of Hill Climb powered by Unity, ThirdWeb GamingKit and ContractKit.
+
 .. raw:: html
 
    </p>
