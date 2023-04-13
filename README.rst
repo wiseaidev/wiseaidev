@@ -381,7 +381,7 @@
 .. raw:: html
    
    <details>
-      <summary open><b>✨ Contributions</b></summary>
+      <summary><b>✨ Contributions</b></summary>
       <p align="center">
 
 .. image:: https://github-readme-stats.vercel.app/api/pin/?username=ethereum&repo=web3.py&show_icons=true&theme=dark
@@ -423,7 +423,7 @@
 
 .. raw:: html
    
-   <details open>
+   <details>
       <summary><b>🚧 Projects</b></summary>
       <p align="center">
 
@@ -488,6 +488,10 @@
    :alt: An admin panel/dashboard with persistent storage powered by Refine, Supabase, RTK, RTK Query and friends.
 
 .. image:: https://github-readme-stats.vercel.app/api/pin/?username=hill-climb&repo=game&show_icons=true&theme=dark
+   :target: https://github.com/hill-climb/game
+   :alt: A web3 clone of Hill Climb powered by Unity, ThirdWeb GamingKit and ContractKit.
+
+.. image:: https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=awesome-code&show_icons=true&theme=dark
    :target: https://github.com/hill-climb/game
    :alt: A web3 clone of Hill Climb powered by Unity, ThirdWeb GamingKit and ContractKit.
 
