@@ -439,10 +439,6 @@
    :target: https://github.com/wiseaidev/pydist2
    :alt: A python library for computing distances.
 
-.. image:: https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=Corona-virus-data-analysis-modeling-and-visualization&show_icons=true&theme=dark
-   :target: https://github.com/wiseaidev/Corona-virus-data-analysis-modeling-and-visualization
-   :alt: Data analysis of covid-19 and SEIRD model implementation.
-
 .. image:: https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=frozndict&show_icons=true&theme=dark
    :target: https://github.com/wiseaidev/frozndict
    :alt: frozndict is a memory efficient immutable dictionary.
