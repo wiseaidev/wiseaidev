@@ -16,10 +16,15 @@
 
    <p align="center">
       <a href="https://keybase.io/wiseai">
-         <img align="center" src="https://img.shields.io/badge/pgp-0xFC8641B71E19147B-313131?style=for-the-badge&theme=dark" alt="PGP Key" height="28 px"/>
+         <img align="center" src="https://img.shields.io/badge/pgp-0xFC8641B71E19147B-313131?style=for-the-badge&theme=dark" alt="PGP-1 Key" height="28 px"/>
       </a>
    </p>
 
+   <p align="center">
+      <a href="#">
+         <img align="center" src="https://img.shields.io/badge/pgp-0x581B9704F8B836C3-313131?style=for-the-badge&theme=dark" alt="PGP Key" height="28 px"/>
+      </a>
+   </p>
 
 
 🎉  Certifications
