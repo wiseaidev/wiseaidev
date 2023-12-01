@@ -2,7 +2,7 @@
 ==== Sup! It's me, Mahmoud image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crab-wave-hand-crab.gif[Hacking Crabby Crab with dababy GIF, width=60]
 
 [.text-center]
-=== I Enjoy Building Projects in Rust image:https://media.tenor.com/m3X-prXhi9QAAAAC/hacking-crabby-crab.gif[Hacking Crabby Crab with dababy GIF, width=80]
+=== I Enjoy Building Projects in Rust 🦀
 
 '''
 
