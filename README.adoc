@@ -2,26 +2,16 @@
 ==== Sup! It's me, Mahmoud image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crab-wave-hand-crab.gif[Hacking Crabby Crab with dababy GIF, width=60]
 
 [.text-center]
-=== I Enjoy Building Projects in Rust 🦀
+=== I Enjoy Building Projects in Rust 🦀. Currently Building Next RS:
+
+link:https://github.com/next-rs/next-rs[image:https://github-readme-stats.vercel.app/api/pin/?username=next-rs&repo=next-rs&show_icons=true&theme=dark[UI in Rust made simple. (WIP), width=900]]
 
 '''
 
 [.text-center]
-==== I Work From Two Places
+==== PGP Key
 
-
-[.center, cols="2", width=95%]
-|===
-
-| Main
-
-| Auxiliary
-
-| link:#[image:https://img.shields.io/badge/pgp-0x581B9704F8B836C3-313131?style=social&theme=dark[PGP Key, width=250]]
-
-| link:https://keybase.io/wiseai[image:https://img.shields.io/badge/pgp-0xFC8641B71E19147B-313131?style=social&theme=dark[PGP-1 Key, width=250]]
-
-|===
+link:#[image:https://img.shields.io/badge/pgp-0x581B9704F8B836C3-313131?style=social&theme=dark[PGP Key, width=250]]
 
 '''
 
