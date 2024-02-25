@@ -73,6 +73,20 @@ link:#[image:https://img.shields.io/badge/pgp-0x581B9704F8B836C3-313131?style=so
 
 |===
 
+| link:https://github.com/wiseaidev/gems[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=gems&show_icons=true&theme=dark[💎 A cli, tui, and sdk for interacting with the Gemini API (WIP), width=300]]
+
+| link:https://github.com/wiseaidev/stegano[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=stegano&show_icons=true&theme=dark[A powerful and memory-safe steganography tool 🕵️‍♂️ (WIP), width=300]]
+
+| link:https://github.com/wiseaidev/duckduckgo[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=duckduckgo&show_icons=true&theme=dark[🦆 A CLI and library for instant DuckDuckGo searches. (WIP), width=300]]
+
+| link:https://github.com/wiseaidev/rping[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=rping&show_icons=true&theme=dark[ 🌊 A Fully Anonymous Any TCP Flag Flooding Attack CLI., width=300]]
+
+| link:https://github.com/wiseaidev/bump2version[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=bump2version&show_icons=true&theme=dark[A simple rust-based implementation of python bump2version package (WIP), width=300]]
+
+| link:https://github.com/wiseaidev/ipcap[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=ipcap&show_icons=true&theme=dark[ 🌍 Perform IP lookup from the command line without internet access. (WIP), width=300]]
+
+| link:https://github.com/wiseaidev/rust-releases[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=rust-releases&show_icons=true&theme=dark[🦀 Explore Rust Releases Through Tiny Practical Examples. (WIP), width=300]]
+
 | link:https://github.com/wiseaidev/depth[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=depth&show_icons=true&theme=dark[Inspect crate.io crates on the fly, as a Tree ├── (WIP), width=300]]
 
 | link:https://github.com/wiseaidev/dark-web-rust[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=dark-web-rust&show_icons=true&theme=dark[A hands-on book for abusing systems using Rust - Open Research, width=300]]
@@ -99,7 +113,11 @@ link:#[image:https://img.shields.io/badge/pgp-0x581B9704F8B836C3-313131?style=so
 
 | link:https://github.com/wiseaidev/chat-room[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=chat-room&show_icons=true&theme=dark[A simple chat room application powered by Yew and PubNub., width=300]]
 
-| link:https://github.com/coder-inbox/code-inbox-server[image:https://github-readme-stats.vercel.app/api/pin/?username=coder-inbox&repo=code-inbox-server&show_icons=true&theme=dark[💬 Chat with your Polars DataFrame from your CLI and your app! (WIP), width=300]]
+| link:https://github.com/wiseaidev/openpilot[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=openpilot&show_icons=true&theme=dark[ Towards fully autonomous driving (WIP), width=300]]
+
+| link:https://github.com/wiseaidev/tinygrad[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=tinygrad&show_icons=true&theme=dark[ You like pytorch? You like micrograd? You love tinygrad! ❤️ (WIP), width=300]]
+
+| link:https://github.com/coder-inbox/code-inbox-server[image:https://github-readme-stats.vercel.app/api/pin/?username=coder-inbox&repo=code-inbox-server&show_icons=true&theme=dark[Code Inbox server powered by FastAPI, Nylas, OpenAI, Judge0, MongoDB, Deta and friends , width=300]]
 
 | link:https://github.com/wiseaidev/awesome-python[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=awesome-python&show_icons=true&theme=dark[A collection of python notes was taken while watching every damn pycon video on YT tv and other resources like books, official documentation and such., width=300]]
 
