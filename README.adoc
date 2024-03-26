@@ -2,9 +2,17 @@
 ==== Sup! It's me, Mahmoud image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crab-wave-hand-crab.gif[Hacking Crabby Crab with dababy GIF, width=60]
 
 [.text-center]
-=== I Enjoy Building Projects in Rust 🦀. Currently Building Next RS:
+=== I Enjoy Building Projects in Rust 🦀. I have been Building Next RS lately:
 
 link:https://github.com/next-rs/next-rs[image:https://github-readme-stats.vercel.app/api/pin/?username=next-rs&repo=next-rs&show_icons=true&theme=dark[UI in Rust made simple. (WIP), width=900]]
+
+'''
+
+=== But, since I ran out of cake, I am now working for a company as a rust enjoyer to make ends meet, ngl. You can support my ongoing FOSS work by buying a copy of this book:
+
+link:https://www.amazon.com/Ultimate-Rust-Systems-Programming-Architecting/dp/8196994737[image:https://m.media-amazon.com/images/I/81hYGvWWjmL._SL1500_.jpg[Rust all the things, btw!), width=900]]
+
+=== Your support means the world to me!
 
 '''
 
