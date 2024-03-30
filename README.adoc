@@ -2,17 +2,35 @@
 ==== Sup! It's me, Mahmoud image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crab-wave-hand-crab.gif[Hacking Crabby Crab with dababy GIF, width=60]
 
 [.text-center]
-=== I Enjoy Building Projects in Rust 🦀. I have been Building Next RS lately:
+=== I Enjoy Building Projects in Rust 🦀. I have been Building Next RS lately (I ran out of cake, BRB soon):
 
 link:https://github.com/next-rs/next-rs[image:https://github-readme-stats.vercel.app/api/pin/?username=next-rs&repo=next-rs&show_icons=true&theme=dark[UI in Rust made simple. (WIP), width=900]]
 
 '''
 
-=== But, since I ran out of cake, I am now working for a company as a rust enjoyer to make ends meet, ngl. You can support my ongoing FOSS work by buying a copy of this book:
+=== You can support my ongoing FOSS work by buying a copy of this thick bad boy:
 
-link:https://www.amazon.com/Ultimate-Rust-Systems-Programming-Architecting/dp/8196994737[image:https://m.media-amazon.com/images/I/81hYGvWWjmL._SL1500_.jpg[Rust all the things, btw!), width=900]]
+[cols="3"]
 
-=== Your support means the world to me!
+|===
+
+| link:https://www.amazon.in/Ultimate-Rust-Systems-Programming-Architecting/dp/8196994737[image:https://img.shields.io/badge/Amazon%20India-000000?logo=amazon&logoColor=white&style=flat-square[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly]]
+
+| link:https://www.amazon.com/Ultimate-Rust-Systems-Programming-Architecting-ebook/dp/B0CYLWK6WR[image:https://img.shields.io/badge/Amazon%20International-000000?logo=amazon&logoColor=white&style=flat-square[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly]]
+
+| link:https://orangeava.com/products/ultimate-rust-for-systems-programming[image:https://img.shields.io/badge/Publisher-000000?logoColor=orange&style=flat-square[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly]]
+
+| link:https://www.amazon.in/Ultimate-Rust-Systems-Programming-Architecting/dp/8196994737[image:https://orangeava.com/cdn/shop/files/Ultimate-Rust-for-Systems-Programming-Straight_1459x1800.jpg?v=1710928701[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly, 240]]
+
+| link:https://www.amazon.com/Ultimate-Rust-Systems-Programming-Architecting-ebook/dp/B0CYLWK6WR[image:https://orangeava.com/cdn/shop/files/Ultimate-Rust-for-Systems-Programming-Straight_1459x1800.jpg?v=1710928701[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly, 240]]
+
+| link:https://orangeava.com/products/ultimate-rust-for-systems-programming[image:https://orangeava.com/cdn/shop/files/Ultimate-Rust-for-Systems-Programming-3D_800x760.jpg[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly, 283]]
+
+|===
+
+| link:https://github.com/wiseaidev/rust-lang-book[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=rust-lang-book&show_icons=true&theme=dark[📚 Accompanying material for my __upcoming__ Rust book 🚀 (WIP), width=900]]
+
+=== Thanks for your generous support!
 
 '''
 
