@@ -2,9 +2,9 @@
 ==== Sup! It's me, Mahmoud image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crab-wave-hand-crab.gif[Hacking Crabby Crab with dababy GIF, width=60]
 
 [.text-center]
-=== I Enjoy Building Projects in Rust 🦀. I have been Building Next RS lately (I ran out of cake, BRB soon):
+=== I Enjoy Building Projects in Rust 🦀. Currently building the GigaDAO ecosystem powered by OpenBook:
 
-link:https://github.com/next-rs/next-rs[image:https://github-readme-stats.vercel.app/api/pin/?username=next-rs&repo=next-rs&show_icons=true&theme=dark[UI in Rust made simple. (WIP), width=900]]
+link:https://github.com/GigaDAO/openbook[image:https://github-readme-stats.vercel.app/api/pin/?username=GigaDAO&repo=openbook&show_icons=true&theme=dark[📖 A CLI, TUI and SDK to interact with the OpenBook market on the Solana blockchain (WIP), width=900]]
 
 '''
 
@@ -28,7 +28,7 @@ link:https://github.com/next-rs/next-rs[image:https://github-readme-stats.vercel
 
 |===
 
-| link:https://github.com/wiseaidev/rust-lang-book[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=rust-lang-book&show_icons=true&theme=dark[📚 Accompanying material for my __upcoming__ Rust book 🚀 (WIP), width=900]]
+link:https://github.com/wiseaidev/rust-lang-book[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=rust-lang-book&show_icons=true&theme=dark[📚 Accompanying material for my __upcoming__ Rust book 🚀 (WIP), width=900]]
 
 === Thanks for your generous support!
 
@@ -98,6 +98,10 @@ link:#[image:https://img.shields.io/badge/pgp-0x581B9704F8B836C3-313131?style=so
 [cols="3"]
 
 |===
+
+| link:https://github.com/next-rs/next-rs[image:https://github-readme-stats.vercel.app/api/pin/?username=next-rs&repo=next-rs&show_icons=true&theme=dark[UI in Rust made simple. (WIP), width=300]]
+
+| link:https://github.com/kevin-rs/autogpt[image:https://github-readme-stats.vercel.app/api/pin/?username=kevin-rs&repo=autogpt&show_icons=true&theme=dark[ World's First, Gemini Specific, Zero Shot, Most General, Most Capable, Blazingly Fast, and Extremely Flexible Pure Rust AI Agentic Framework (WIP). , width=300]]
 
 | link:https://github.com/wiseaidev/gems[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=gems&show_icons=true&theme=dark[💎 A cli, tui, and sdk for interacting with the Gemini API (WIP), width=300]]
 
@@ -174,6 +178,8 @@ link:#[image:https://img.shields.io/badge/pgp-0x581B9704F8B836C3-313131?style=so
 | link:https://github.com/hill-climb/game[image:https://github-readme-stats.vercel.app/api/pin/?username=hill-climb&repo=game&show_icons=true&theme=dark[A web3 clone of Hill Climb powered by Unity, ThirdWeb GamingKit and ContractKit., width=300]]
 
 | link:https://github.com/wiseaidev/awesome-code[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=awesome-code&show_icons=true&theme=dark[Leetcode problems solutions in modern python: type annotations, unit tests, and more(BRB)., width=300]]
+
+| link:https://github.com/wiseaidev/Face-Recogntion-Detection[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=Face-Recogntion-Detection&show_icons=true&theme=dark[Opencv Implementations., width=300]]
 
 | link:https://github.com/wiseaidev/Face-Recogntion-Detection[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=Face-Recogntion-Detection&show_icons=true&theme=dark[Opencv Implementations., width=300]]
 
