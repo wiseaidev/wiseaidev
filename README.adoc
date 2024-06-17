@@ -2,9 +2,18 @@
 ==== Sup! It's me, Mahmoud image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crab-wave-hand-crab.gif[Hacking Crabby Crab with dababy GIF, width=60]
 
 [.text-center]
-=== I Enjoy Building Projects in Rust 🦀. Currently building the GigaDAO ecosystem powered by OpenBook:
+=== I Enjoy Building Projects in Rust 🦀. Currently building the GigaDAO ecosystem powered by "OpenBook" and "Wasi SOL":
 
-link:https://github.com/GigaDAO/openbook[image:https://github-readme-stats.vercel.app/api/pin/?username=GigaDAO&repo=openbook&show_icons=true&theme=dark[📖 A CLI, TUI and SDK to interact with the OpenBook market on the Solana blockchain (WIP), width=900]]
+[cols="2"]
+
+|===
+
+| link:https://github.com/GigaDAO/openbook[image:https://github-readme-stats.vercel.app/api/pin/?username=GigaDAO&repo=openbook&show_icons=true&theme=dark[📖 A CLI, TUI and SDK to interact with the OpenBook market on the Solana blockchain (WIP), width=450]]
+
+| link:https://github.com/GigaDAO/wasi-sol[image:https://github-readme-stats.vercel.app/api/pin/?username=GigaDAO&repo=wasi-sol&show_icons=true&theme=dark[💳 A Solana Wallet adapter for WASM frameworks (WIP), width=450]]
+
+|===
+
 
 '''
 
