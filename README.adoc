@@ -17,7 +17,7 @@
 
 |And the compiler said, 'Let there be no nulls,' and there were none.
 
-|Render unto Rust the things that are Rust’s, and unto C the things that are C’s.
+|Render unto Rust the things that are Rust's, and unto C the things that are C's.
 
 |Rust is my shepherd; I shall not use unsafe.
 
@@ -27,6 +27,19 @@
 
 |For I know the plans I have for you, declares Ferris, plans to prosper you and not to cause data races, plans to give you a future and a hope.
 |===
+
+'''
+
+[.text-center]
+=== Going Forward
+ 
+Well, well, well... months have flown by, and here I am, still on the hunt for the right opportunity. Despite acing dozens of interviews, scoring over 90% on assessments, and giving each round my absolute best, I find myself either ghosted or told I'm "overqualified", as if being exceptionally capable is a drawback! Honestly, overqualification should mean I'd be able to exceed expectations. But, alas, many recruiters seem to miss this (not all, but let's just say… quite a few). 
+
+To make matters more perplexing, even when offers do come, they're far from attracting. At this rate, I'd rather volunteer in open-source projects for the benefit of the community than settle for underpaid work. After all, the software I create has the potential to impact millions. Recognizing this as an industry-wide issue, I'm now working toward a solution. 
+
+It seems clear that job security is not guaranteed, no matter how high your skills, experience, etc. That's why I'm crowdfunding to launch a community-driven company called **Open SASS**. Every penny raised, through cryptocurrency for transparency, will go toward creating new opportunities for talented Rust developers. Additionally, I'm participating in hackathons as another way to raise funds and foster connections within our community.
+
+link:https://github.com/opensass/aibook[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=aibook&show_icons=true&theme=dark[🦀 An Insanely Fast 🚀 Full Stack Content Generation SaaS Platform Powered by Dioxus, Dioxus Server Functions, Axum, Unsplash, Gemini AI & MongoDB, width=900]]
 
 '''
 
