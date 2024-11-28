@@ -35,9 +35,19 @@
  
 Together, let's build **The Thing**:
 
-link:https://github.com/opensass/opensass[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=opensass&show_icons=true&theme=dark[🦀 A Blazingly Fast 🚀 Full Stack Blog App With Admin Panel & Landing Page Powered by Dioxus. Dioxus Server Functions, Axum & MongoDB, width=900]]
+[cols="2"]
 
-link:https://github.com/opensass/aibook[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=aibook&show_icons=true&theme=dark[🦀 An Insanely Fast 🚀 Full Stack Content Generation SaaS Platform Powered by Dioxus, Dioxus Server Functions, Axum, Unsplash, Gemini AI & MongoDB, width=900]]
+|===
+
+| link:https://github.com/opensass/opensass[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=opensass&show_icons=true&theme=dark[🦀 A Blazingly Fast 🚀 Full Stack Blog App With Admin Panel & Landing Page Powered by Dioxus. Dioxus Server Functions, Axum & MongoDB, width=450]]
+
+| link:https://github.com/opensass/aibook[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=aibook&show_icons=true&theme=dark[🦀 An Insanely Fast 🚀 Full Stack Content Generation SaaS Platform Powered by Dioxus, Dioxus Server Functions, Axum, Unsplash, Gemini AI & MongoDB, width=450]]
+
+| link:https://github.com/opensass/tripper[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=tripper&show_icons=true&theme=dark[(WIP) 🦀 Next Level Blazingly Fast 🚀 Full Stack Trip Planning SaaS Platform Powered by Dioxus, Dioxus Server Functions, Axum, Unsplash, AWS Bedrock AI & MongoDB, width=450]]
+
+| link:https://github.com/opensass/x-ai[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=x-ai&show_icons=true&theme=dark[⚡ Beyond Blazingly Fast 🚀 𝕏-AI Rusty CLI, TUI and SDK, width=450]]
+
+|===
 
 '''
 
