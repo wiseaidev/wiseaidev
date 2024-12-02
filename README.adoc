@@ -39,6 +39,8 @@ Together, let's build **The Thing**:
 
 |===
 
+| link:https://github.com/opensass/nano-ai[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=nano-ai&show_icons=true&theme=dark[🦀 A Gemini Nano Adapter for WASM Frameworks, width=450]]
+
 | link:https://github.com/opensass/opensass[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=opensass&show_icons=true&theme=dark[🦀 A Blazingly Fast 🚀 Full Stack Blog App With Admin Panel & Landing Page Powered by Dioxus. Dioxus Server Functions, Axum & MongoDB, width=450]]
 
 | link:https://github.com/opensass/aibook[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=aibook&show_icons=true&theme=dark[🦀 An Insanely Fast 🚀 Full Stack Content Generation SaaS Platform Powered by Dioxus, Dioxus Server Functions, Axum, Unsplash, Gemini AI & MongoDB, width=450]]
