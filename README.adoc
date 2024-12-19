@@ -39,6 +39,10 @@ Together, let's build **The Thing**:
 
 |===
 
+| link:https://github.com/opensass/scroll-rs[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=scroll-rs&show_icons=true&theme=dark[🖱️ A headless, customizable scroll-to-anywhere component for WASM frameworks, width=450]]
+
+| link:https://github.com/opensass/input-rs[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=input-rs&show_icons=true&theme=dark[🎡 A feature-rich, accessible, highly customizable, functional, reusable input component for WASM Frameworks, width=450]]
+
 | link:https://github.com/opensass/nano-ai[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=nano-ai&show_icons=true&theme=dark[🦀 A Gemini Nano Adapter for WASM Frameworks, width=450]]
 
 | link:https://github.com/opensass/x-ai[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=x-ai&show_icons=true&theme=dark[⚡ Beyond Blazingly Fast 🚀 𝕏-AI Rusty CLI, TUI and SDK, width=450]]
@@ -313,5 +317,9 @@ link:https://github.com/wiseaidev/rust-lang-book[image:https://github-readme-sta
 | link:https://github.com/rottingresearch/linkrot[image:https://github-readme-stats.vercel.app/api/pin/?username=rottingresearch&repo=linkrot&show_icons=true&theme=dark[This Python program scans pdfs and websites for links and checks if the links are active or return an error code., width=450]]
 
 |===
+
+'''
+
+> 📝 NOTE: The "AI" in my username "wiseaidev" stands for *Anonymous Individual* (like *Anonymous Indian*), not *Artificial Intelligence*.
 
 '''
