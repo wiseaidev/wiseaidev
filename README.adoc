@@ -30,10 +30,27 @@
 
 '''
 
-[.text-center]
-=== Going Forward
- 
-Together, let's build **The Thing**:
+I am currently looking for a paid Open Source Rust-related gig. My current proposal:
+
+[cols="1"]
+
+|===
+
+| link:https://github.com/wiseaidev/dora-proposal[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=dora-proposal&show_icons=true&theme=dark[My Proposal to Become a Core Maintainer of Dora RS, width=900]]
+
+|===
+
+Let's see if Dora can help me find a way:
+
+[cols="1"]
+
+|===
+
+| image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/dora-the-explorer.gif[Dora plz find a way, width=300]
+
+|===
+
+Additionally, I'm building Open SASS as an unpaid hobby project. I would be forever grateful if you could help me with its development:
 
 [cols="2"]
 
