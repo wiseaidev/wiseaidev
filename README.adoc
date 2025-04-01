@@ -26,35 +26,20 @@
 |He who began a good work in you will carry it on to completion until the day of the final release.
 
 |For I know the plans I have for you, declares Ferris, plans to prosper you and not to cause data races, plans to give you a future and a hope.
+
 |===
 
 '''
 
-I am currently looking for a paid Open Source Rust-related gig. My current proposal:
-
-[cols="1"]
-
-|===
-
-| link:https://github.com/wiseaidev/dora-proposal[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=dora-proposal&show_icons=true&theme=dark[My Proposal to Become a Core Maintainer of Dora RS, width=900]]
-
-|===
-
-Let's see if Dora can help me find a way:
-
-[cols="1"]
-
-|===
-
-| image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/dora-the-explorer.gif[Dora plz find a way, width=300]
-
-|===
-
-Additionally, I'm building Open SASS as an unpaid hobby project. I would be forever grateful if you could help me with its development:
+I'm currently locked in with the boys building Open SASS. I would be forever grateful if you could help me with its development:
 
 [cols="2"]
 
 |===
+
+| link:https://github.com/opensass/eld[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=eld&show_icons=true&theme=dark[🚛 ELD Toolkit for WASM frameworks, width=450]]
+
+| link:https://github.com/opensass/eldflow[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=eldflow&show_icons=true&theme=dark[🚛 Darn Easy ELD Log Management & Smart Trip Planning 🛣️, width=450]]
 
 | link:https://github.com/opensass/alert-rs[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=alert-rs&show_icons=true&theme=dark[⚠️ A highly customizable alert component for WASM frameworks, width=450]]
 
@@ -74,9 +59,19 @@ Additionally, I'm building Open SASS as an unpaid hobby project. I would be fore
 
 |===
 
+There is a live Discord server for this community if you'd like to join the futuristic Humble Bumble devs!
+
+image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/humble-bumble-dev.jpg[Inviting a humble bumble dev]
+
+link:https://discord.gg/b5JbvHW5nv[image:https://dcbadge.limes.pink/api/server/b5JbvHW5nv[Open SASS Discord]]
+
+I'm currently looking for collaborators to build the first-ever fully-fledged Rust startup, where everything, from the website to the blog and beyond, is written entirely in Rust.
+
+If that interests you, feel free to submit a proposal so we can discuss building your startup in pure Rust!
+
 '''
 
-=== You can support my ongoing FOSS work by buying a copy of this thick bad boy:
+=== You can support my ongoing FOSS work by buying a copy of these books:
 
 [cols="3"]
 
@@ -236,7 +231,7 @@ link:https://github.com/wiseaidev/rust-lang-book[image:https://github-readme-sta
 
 '''
 
-==== I used to code in C#/Python/(Java/Type)Script in my past life, but now there's no need for that anymore!
+==== I used to code in C#, Python, and (Java/Type)Script in a past life, but I've moved on; Those are just kids/code-vibers' toys now!
 
 '''
 
@@ -336,6 +331,6 @@ link:https://github.com/wiseaidev/rust-lang-book[image:https://github-readme-sta
 
 '''
 
-> 📝 NOTE: The "AI" in my username "wiseaidev" stands for *Anonymous Individual* (like *Anonymous Indian*), not *Artificial Intelligence*.
+> 📝 Silly Pun: The "AI" in my username "wiseaidev" stands for *Anonymous Individual* (like *Anonymous Indian*), not *Artificial Intelligence*.
 
 '''
