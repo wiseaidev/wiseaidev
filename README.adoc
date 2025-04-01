@@ -31,7 +31,7 @@
 
 '''
 
-I'm currently locked in with the boys building Open SASS. I would be forever grateful if you could help me with its development:
+I'm currently locked in with the boys, building Kevin RS and Open SASS (formerly known as link:https://github.com/next-rs[Next RS]). I realized I could make the components framework-agnostic. I would be forever grateful if you could help me with its development:
 
 [cols="2"]
 
