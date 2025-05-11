@@ -1,33 +1,14 @@
 ==== Sup image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crab-wave-hand-crab.gif[Hacking Crabby Crab with dababy GIF, width=60]
 
-I'm an electrical engineer, graduated 5 years ago. Since then, I've spent over 10k hours working on Open Source projects, but I've always struggled to find a stable, long-term job. Since things didn't work out in that direction, I've decided to go full-time as an Open Source developer and maintainer here on GitHub, pushing the Rust science forward.
+link:https://github.com/opensass[image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crabby-banner.png[Crabby Banner]]
 
-'''
-
-== 🚧 Projects
-
-I'm currently working on Rusty web and AGI development at the following organizations:
-
-- link:https://github.com/opensass[Open SASS]: I'm putting in the effort to make Rust web development extremely accessible for everyone.
-- link:https://github.com/kevin-rs[Kevin RS]: I'm researching and building the fastest, most capable agentic framework on the planet.
-
-I'll be releasing a minor update of link:https://github.com/kevin-rs/autogpt[AutoGPT] every Saturday.
-
-'''
-
-== 🌐 Community
-
-You're welcome to join the Open SASS Discord server for both Rusty Web and AGI development:
-
-image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/humble-bumble-dev.jpg[Inviting a humble bumble dev]
-
-link:https://discord.gg/b5JbvHW5nv[image:https://dcbadge.limes.pink/api/server/b5JbvHW5nv[Open SASS Discord]]
+I'm currently building link:https://github.com/opensass[Open SASS] and link:https://github.com/kevin-rs[Kevin RS].
 
 '''
 
 == 💖 Support
 
-Since GitHub Sponsors isn't available in Lebanon 🇱🇧, You can support my ongoing FOSS work by buying a copy of these books:
+Since GitHub Sponsors isn't available in Lebanon, You can support my ongoing FOSS work by buying a copy of this book:
 
 [cols="3"]
 
@@ -51,9 +32,9 @@ Or, for full support, you can use this Solana wallet address.
 
 link:https://solscan.io/account/AXsYg2sapobxKqVeAcBw8itkouCN1TSyaqWcVvBi2HK2[image:https://img.shields.io/badge/Solana%20Wallet-AXsYg2sapobxKqVeAcBw8itkouCN1TSyaqWcVvBi2HK2-3a0ca3?style=flat-square&logo=solana&logoColor=white[Open SASS & Kevin RS Solana Wallet Address]]
 
-Please note that I receive royalties from these books but not the full amount.
+Please note that I receive royalties from this book, but not the full amount.
 
-=== 🙏 Thanks so much for your generous support ❤️!
+Either way, 🙏 thanks so much for your generous support ❤️!
 
 '''
 
