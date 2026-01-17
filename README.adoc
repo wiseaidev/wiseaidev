@@ -2,43 +2,9 @@
 
 link:https://github.com/opensass[image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crabby-banner.png[Crabby Banner]]
 
-I'm currently building link:https://github.com/opensass[Open SASS] and link:https://github.com/kevin-rs[Kevin RS].
+I'm building link:https://github.com/opensass[Open SASS] on my spare time.
 
 '''
-
-== 💖 Support
-
-Since GitHub Sponsors isn't available in Lebanon, You can support my ongoing FOSS work by buying a copy of this book:
-
-[cols="3"]
-
-|===
-
-| link:https://www.amazon.in/Ultimate-Rust-Systems-Programming-Architecting/dp/8196994737[image:https://img.shields.io/badge/Amazon%20India-000000?logo=amazon&logoColor=white&style=flat-square[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly]]
-
-| link:https://www.amazon.com/Ultimate-Rust-Systems-Programming-Architecting-ebook/dp/B0CYLWK6WR[image:https://img.shields.io/badge/Amazon%20International-000000?logo=amazon&logoColor=white&style=flat-square[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly]]
-
-| link:https://orangeava.com/products/ultimate-rust-for-systems-programming[image:https://img.shields.io/badge/Publisher-000000?logoColor=orange&style=flat-square[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly]]
-
-| link:https://www.amazon.in/Ultimate-Rust-Systems-Programming-Architecting/dp/8196994737[image:https://orangeava.com/cdn/shop/files/Ultimate-Rust-for-Systems-Programming-Straight_1459x1800.jpg?v=1710928701[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly, 240]]
-
-| link:https://www.amazon.com/Ultimate-Rust-Systems-Programming-Architecting-ebook/dp/B0CYLWK6WR[image:https://orangeava.com/cdn/shop/files/Ultimate-Rust-for-Systems-Programming-Straight_1459x1800.jpg?v=1710928701[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly, 240]]
-
-| link:https://orangeava.com/products/ultimate-rust-for-systems-programming[image:https://orangeava.com/cdn/shop/files/Ultimate-Rust-for-Systems-Programming-3D_800x760.jpg[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly, 283]]
-
-|===
-
-Or, for full support, you can use this Solana wallet address.
-
-link:https://solscan.io/account/AXsYg2sapobxKqVeAcBw8itkouCN1TSyaqWcVvBi2HK2[image:https://img.shields.io/badge/Solana%20Wallet-AXsYg2sapobxKqVeAcBw8itkouCN1TSyaqWcVvBi2HK2-3a0ca3?style=flat-square&logo=solana&logoColor=white[Open SASS & Kevin RS Solana Wallet Address]]
-
-Please note that I receive royalties from this book, but not the full amount.
-
-Either way, 🙏 thanks so much for your generous support ❤️!
-
-'''
-
-== 📚 Appendix
 
 === Rust 🦀 IS A Biblically Accurate Programming Language!
 
