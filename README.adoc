@@ -1,36 +1,6 @@
 ==== Sup image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crab-wave-hand-crab.gif[Hacking Crabby Crab with dababy GIF, width=60]
 
-link:https://github.com/opensass[image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crabby-banner.png[Crabby Banner]]
+I'm currently talking to God, not the kind you have in mind. 2 blog posts are currently being written before I leave, and they'll answer just about everything you might have in mind about life, existence and beyond. More on that soon.
 
-I'm building link:https://github.com/opensass[Open SASS] on my spare time.
-
-'''
-
-=== Rust 🦀 IS A Biblically Accurate Programming Language!
-
-[cols="1"]
-|===
-
-|In the beginning, Ferris created Rust and the ownership rules.
-
-|Though I walk through the valley of undefined behavior, I will fear no bugs, for Rust is with me; your compiler and your borrow checker, they comfort me.
-
-|For where two or three are gathered in Rust's name, there Ferris is with them.
-
-|Blessed are the memory safe, for they shall inherit the performance.
-
-|And the compiler said, 'Let there be no nulls,' and there were none.
-
-|Render unto Rust the things that are Rust's, and unto C the things that are C's.
-
-|Rust is my shepherd; I shall not use unsafe.
-
-|Ask and it will be given to you; seek and you will find; knock and the compiler will open the gates of concurrency to you.
-
-|He who began a good work in you will carry it on to completion until the day of the final release.
-
-|For I know the plans I have for you, declares Ferris, plans to prosper you and not to cause data races, plans to give you a future and a hope.
-
-|===
-
+=== Sorry, I have to do it! I love you 🥰. Bye 👋!
 '''
