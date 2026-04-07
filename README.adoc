@@ -1,0 +1,3 @@
+==== Sup image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crab-wave-hand-crab.gif[Hacking Crabby Crab with dababy GIF, width=60]
+
+https://github.com/kevin-rs/blog/blob/main/docs/blog/src/who-am-i.md[Who am I?]
