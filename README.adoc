@@ -3,3 +3,5 @@
 https://github.com/kevin-rs/blog/blob/main/docs/blog/src/who-am-i.md[Who am I?]
 
 https://github.com/kevin-rs/blog/blob/main/docs/blog/src/an-empty-life-filled-with-constant-suffering.md[An Empty Life Filled With Constant Suffering.]
+
+https://github.com/kevin-rs/blog/blob/main/docs/blog/src/it-is-always-the-russians.md[It is always the Russians.]
