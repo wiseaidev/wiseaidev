@@ -9,3 +9,11 @@ https://github.com/kevin-rs/blog/blob/main/docs/blog/src/it-is-always-the-russia
 https://github.com/kevin-rs/blog/blob/main/docs/blog/src/as-engineers-llms-should-pay-us-for-tokens-usage.md[As Engineers, LLMs should pay us for tokens usage.]
 
 https://github.com/kevin-rs/blog/blob/main/docs/blog/src/technology-has-destroyed-my-livelihood.md[Technology Has Destroyed My Livelihood]
+
+https://github.com/kevin-rs/blog/blob/main/docs/blog/src/language-is-limited-asi-is-impossible.md[Language is Limited. ASI is Impossible.]
+
+> Nah, Arch is life <3.
+
+image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/arch-=-<3.png[Nah, Arch is life.]
+
+> I know that you know that I know. Please keep it a secret bro <3!
