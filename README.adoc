@@ -1,5 +1,8 @@
 ==== Sup image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crab-wave-hand-crab.gif[Hacking Crabby Crab with dababy GIF, width=60]
 
+[cols="1,1", frame="none", grid="none"]
+|===
+a|
 https://github.com/kevin-rs/blog/blob/main/docs/blog/src/who-am-i.md[Who am I?]
 
 https://github.com/kevin-rs/blog/blob/main/docs/blog/src/an-empty-life-filled-with-constant-suffering.md[An Empty Life Filled With Constant Suffering.]
@@ -8,12 +11,22 @@ https://github.com/kevin-rs/blog/blob/main/docs/blog/src/it-is-always-the-russia
 
 https://github.com/kevin-rs/blog/blob/main/docs/blog/src/as-engineers-llms-should-pay-us-for-tokens-usage.md[As Engineers, LLMs should pay us for tokens usage.]
 
-https://github.com/kevin-rs/blog/blob/main/docs/blog/src/technology-has-destroyed-my-livelihood.md[Technology Has Destroyed My Livelihood]
+https://github.com/kevin-rs/blog/blob/main/docs/blog/src/technology-has-destroyed-my-livelihood.md[Technology Has Destroyed My Livelihood.]
 
 https://github.com/kevin-rs/blog/blob/main/docs/blog/src/language-is-limited-asi-is-impossible.md[Language is Limited. ASI is Impossible.]
+
+https://github.com/kevin-rs/blog/blob/main/docs/blog/src/christianity-makes-perfect-sense.md[Christianity Makes Perfect Sense.]
+
+a|
+image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/writing.png[writing, width=420]
+|===
 
 > Nah, Arch is life <3.
 
 image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/arch-=-<3.png[Nah, Arch is life.]
+
+> Even Cargo can't take it anymore. How am I supposed to carry all this weight?
+
+image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/cargo-wat.png[cargo-wat.png]
 
 > I know that you know that I know. Please keep it a secret bro <3!
