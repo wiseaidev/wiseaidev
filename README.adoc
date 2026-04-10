@@ -17,6 +17,8 @@ https://github.com/kevin-rs/blog/blob/main/docs/blog/src/language-is-limited-asi
 
 https://github.com/kevin-rs/blog/blob/main/docs/blog/src/christianity-makes-perfect-sense.md[Christianity Makes Perfect Sense.]
 
+https://github.com/kevin-rs/blog/blob/main/docs/blog/src/llms-are-usefull-lmms-will-break-reality.md[LLMs are Useful. LMMs will Break Reality.]
+
 a|
 image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/writing.png[writing, width=420]
 |===
@@ -29,4 +31,10 @@ image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/arch-=-<3.png[Nah,
 
 image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/cargo-wat.png[cargo-wat.png]
 
+> If you are reading this from https://www.youtube.com/watch?v=A_zAvt-sFxk[Isreal that recently wiped out the entire city I used to live in], please don't tell the cuties <3.
+
 > I know that you know that I know. Please keep it a secret bro <3!
+
+> Sometimes, https://steamcommunity.com/id/wiseaidev[I play CS2 on Steam] to interact with Russians and better understand why the Soviets did what they did. So far, all my interactions have been wholesome <3.
+
+> ⚠️ Disclaimer: All of my work on the internet was made possible by awesome hoomans, me and with the lil help of LLMs. We, humans, are still the thoughts behind everything. This work won't be possible if we never existed on this insufferable planet.
