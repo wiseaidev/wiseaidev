@@ -19,6 +19,8 @@ https://github.com/kevin-rs/blog/blob/main/docs/blog/src/christianity-makes-perf
 
 https://github.com/kevin-rs/blog/blob/main/docs/blog/src/llms-are-usefull-lmms-will-break-reality.md[LLMs are Useful. LMMs will Break Reality.]
 
+https://github.com/kevin-rs/blog/blob/main/docs/blog/src/mathematical-equations-are-multimodal-by-default.md[Mathematical Equations are Multimodal by Default.]
+
 a|
 image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/writing.png[writing, width=420]
 |===
