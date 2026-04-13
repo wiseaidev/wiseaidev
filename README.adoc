@@ -21,6 +21,8 @@ https://wiseai.dev/blogs/llms-are-usefull-lmms-will-break-reality[LLMs are Usefu
 
 https://wiseai.dev/blogs/mathematical-equations-are-multimodal-by-default[Mathematical Equations are Multimodal by Default.]
 
+https://wiseai.dev/blogs/pharaohs-were-the-first-to-achieve-asi[Pharaohs Were the First to Achieve ASI.]
+
 a|
 image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/life-is-gud.png[writing, width=520]
 |===
