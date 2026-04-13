@@ -3,23 +3,23 @@
 [cols="1,1", frame="none", grid="none"]
 |===
 a|
-https://github.com/kevin-rs/blog/blob/main/docs/blog/src/who-am-i.md[Who am I?]
+https://wiseai.dev/blogs/who-am-i[Who am I?]
 
-https://github.com/kevin-rs/blog/blob/main/docs/blog/src/an-empty-life-filled-with-constant-suffering.md[An Empty Life Filled With Constant Suffering.]
+https://wiseai.dev/blogs/an-empty-life-filled-with-constant-suffering[An Empty Life Filled With Constant Suffering.]
 
-https://github.com/kevin-rs/blog/blob/main/docs/blog/src/it-is-always-the-russians.md[It is always the Russians.]
+https://wiseai.dev/blogs/it-is-always-the-russians[It is always the Russians.]
 
-https://github.com/kevin-rs/blog/blob/main/docs/blog/src/as-engineers-llms-should-pay-us-for-tokens-usage.md[As Engineers, LLMs should pay us for tokens usage.]
+https://wiseai.dev/blogs/as-engineers-llms-should-pay-us-for-tokens-usage[As Engineers, LLMs should pay us for tokens usage.]
 
-https://github.com/kevin-rs/blog/blob/main/docs/blog/src/technology-has-destroyed-my-livelihood.md[Technology Has Destroyed My Livelihood.]
+https://wiseai.dev/blogs/technology-has-destroyed-my-livelihood[Technology Has Destroyed My Livelihood.]
 
-https://github.com/kevin-rs/blog/blob/main/docs/blog/src/language-is-limited-asi-is-impossible.md[Language is Limited. ASI is Impossible.]
+https://wiseai.dev/blogs/language-is-limited-asi-is-impossible[Language is Limited. ASI is Impossible.]
 
-https://github.com/kevin-rs/blog/blob/main/docs/blog/src/christianity-makes-perfect-sense.md[Christianity Makes Perfect Sense.]
+https://wiseai.dev/blogs/christianity-makes-perfect-sense[Christianity Makes Perfect Sense.]
 
-https://github.com/kevin-rs/blog/blob/main/docs/blog/src/llms-are-usefull-lmms-will-break-reality.md[LLMs are Useful. LMMs will Break Reality.]
+https://wiseai.dev/blogs/llms-are-usefull-lmms-will-break-reality[LLMs are Useful. LMMs will Break Reality.]
 
-https://github.com/kevin-rs/blog/blob/main/docs/blog/src/mathematical-equations-are-multimodal-by-default.md[Mathematical Equations are Multimodal by Default.]
+https://wiseai.dev/blogs/mathematical-equations-are-multimodal-by-default[Mathematical Equations are Multimodal by Default.]
 
 a|
 image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/writing.png[writing, width=420]
