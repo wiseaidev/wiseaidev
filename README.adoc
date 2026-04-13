@@ -24,7 +24,7 @@ https://wiseai.dev/blogs/mathematical-equations-are-multimodal-by-default[Mathem
 https://wiseai.dev/blogs/pharaohs-were-the-first-to-achieve-asi[Pharaohs Were the First to Achieve ASI.]
 
 a|
-image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/life-is-gud.png[writing, width=520]
+image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/life-is-gud++.png[writing, width=520]
 |===
 
 > I love penguins 🐧.
@@ -51,4 +51,20 @@ image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/life-is-gud.png[wr
 
 > If you are hiring, lemme know. Thanks for the help <3!
 
-> ⚠️ Disclaimer: All of my work on the internet was made possible by awesome hoomans, me and with the lil help of LLMs. We, humans, are still the thoughts behind everything. This work won't be possible if we never existed on this insufferable planet.
+> My mossad agent when being interrogated about last year's unpaid compute and electricity bill:
+
+> image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/no-no-no.gif[no-no-no.gif]
+
+> I promise to pay the bill once I get a job. Until then, thanks for the scholarship!
+
+> Sending our most charming intern to pitch our ASI startup to YC:
+
+> image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/cutest-intern.jpg[cutest-intern.jpg]
+
+> Dear Ilya, if you wanna team up, lemme know! I'm open to collab, and mb relocating to Israel <3!
+
+> The web should be colorful:
+
+> image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crabby-banner.png[crabby-banner.png]
+
+> ⚠️ Disclaimer: All of my work on the internet was made possible by awesome hoomans, me and with the lil help of LLMs. We, humans, are still the thoughts behind everything. This work won't be possible if we never existed on this kawaii planet <3.
