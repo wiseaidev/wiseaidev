@@ -3,6 +3,10 @@
 [cols="1,1", frame="none", grid="none"]
 |===
 a|
+https://wiseai.dev/blogs/genuine-intelligence-will-never-emerge-from-neural-networks[15. Genuine Intelligence Will Never in Trillion Years Emerge From Neural Networks.]
+
+https://wiseai.dev/blogs/all-you-have-access-to-is-knowledge-and-tools-never-intelligence[14. All You Have Access to Is Knowledge and Tools. Never Intelligence.]
+
 https://wiseai.dev/blogs/the-penguins-are-already-sentient-your-neural-network-is-just-a-distraction[13. The Penguins Are Already Sentient. Your Neural Network Is Just a Distraction.]
 
 https://wiseai.dev/blogs/training-is-an-evil-concept-lmms-eliminates-it-altogether[12. Training Is an Evil Concept. LMMs Eliminates It Altogether.]
