@@ -1,5 +1,15 @@
 ==== Sup image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crab-wave-hand-crab.gif[Hacking Crabby Crab with dababy GIF, width=60]
 
+> I'm currently unemployed, and because of that, I've been focusing on building open-source startups. Since sponsorship isn't an option for me due to my location, I've decided to take part in the ongoing https://arcprize.org/arc-agi/3[ARC AGI 3] contest and aim for first place 🤞.
+
+> If I'm fortunate enough to secure funding, I plan to use it to recruit humble bumble hoomans and continue developing what we've already started, real super intelligence: ethical, responsible, and designed to benefit humanity.
+
+> I'm documenting my journey and findings on our blog ✍️. Catch you on the LMM side of things ✌️!
+
+> Current Best Score 👉 https://arcprize.org/replay/69c86b04-c9ff-4ae2-98e8-eade2e4c2214[image:https://img.shields.io/badge/ASI-14.55%25-brown[ASI (Best Run), width=60]]
+
+> Agent 👉 https://github.com/wiseaidotdev/lmm/tree/main/examples/arc-lmm-agent[🕹️ LMM Agent 🗿]
+
 [cols="1,1", frame="none", grid="none"]
 |===
 a|
@@ -78,5 +88,15 @@ image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/life-is-gud++.png[
 > The web should be colorful:
 
 > image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crabby-banner.png[crabby-banner.png]
+
+> There's a damn fine Lexus pulling up to visit me 🚗.
+
+> I wonder what that fine-looking gentleman want... maybe just a smol visit 🧐🤏.
+
+> image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/ferris-bought-lexus.jpeg[ferris-bought-lexus.jpeg]
+
+> If I stopped committing to GitHub for over a month... well, you know what happened...
+
+> I'll try my best not to disappear 🫡.
 
 > ⚠️ Disclaimer: All of my work on the internet was made possible by awesome hoomans, me and with the lil help of LLMs. We, humans, are still the thoughts behind everything. This work won't be possible if we never existed on this kawaii planet <3.
