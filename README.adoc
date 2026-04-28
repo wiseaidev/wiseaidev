@@ -3,6 +3,8 @@
 [cols="1,1", frame="none", grid="none"]
 |===
 a|
+https://wiseai.dev/blogs/knowledge-and-intelligence-are-mutually-exclusive[16. Knowledge and Intelligence ARE Mutually Exclusive.]
+
 https://wiseai.dev/blogs/genuine-intelligence-will-never-emerge-from-neural-networks[15. Genuine Intelligence Will Never in Trillion Years Emerge From Neural Networks.]
 
 https://wiseai.dev/blogs/all-you-have-access-to-is-knowledge-and-tools-never-intelligence[14. All You Have Access to Is Knowledge and Tools. Never Intelligence.]
