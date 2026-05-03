@@ -91,12 +91,207 @@ image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/life-is-gud++.png[
 
 > There's a damn fine Lexus pulling up to visit me 🚗.
 
-> I wonder what that fine-looking gentleman want... maybe just a smol visit 🧐🤏.
-
 > image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/ferris-bought-lexus.jpeg[ferris-bought-lexus.jpeg]
 
 > If I stopped committing to GitHub for over a month... well, you know what happened...
 
 > I'll try my best not to disappear 🫡.
+
+==== 🦄 kawaii Achievements
+
+> The following is a collection of degrees and certificates achieved around 2020 and somewhat define what i am today. Still same intelligence tho, but with more sophisticated knowledge that i am currently utilizing to expand the AI space.
+
+[cols="1,1,1", frame="none", grid="none"]
+|===
+a|
+image::https://github.com/wiseaidev/wiseaidev/blob/main/assets/kawai-diploma.png[link="https://github.com/wiseaidev/wiseaidev/blob/main/assets/kawai-diploma.png"]
+
+a|
+image::https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png[link="https://www.credly.com/badges/a45a4aab-82ce-4621-86e5-3e5fe2f6fb58"]
+
+a|
+image::https://images.credly.com/size/340x340/images/a8e890b4-d484-4e04-b521-fba516a8c3cd/coursera-specialization-badge.png[link="https://www.credly.com/badges/cf74adc4-f37f-4dc5-8741-db8e9a66067b"]
+
+a|
+image::https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png[link="https://www.credly.com/badges/eace30f1-b663-4248-8a61-14ee4cc63f50"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JK6EAGFRVTPS/CERTIFICATE_LANDING_PAGE~JK6EAGFRVTPS.jpeg[link="https://coursera.org/share/d234914ee7fb0dfab0bfb5d48219493f"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~8GCLBDG62Q9J/CERTIFICATE_LANDING_PAGE~8GCLBDG62Q9J.jpeg[link="https://coursera.org/share/06f9a0e105ab0e4b6c3285ea7323980a"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~WTUWSGL2ZAWA/CERTIFICATE_LANDING_PAGE~WTUWSGL2ZAWA.jpeg[link="https://coursera.org/share/229d14d379e81aaeea39e78ddf21ba8a"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~MTQ6HHL3FARV/CERTIFICATE_LANDING_PAGE~MTQ6HHL3FARV.jpeg[link="https://coursera.org/share/4a230d92b0d1239a2e0fadcd05339508"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5B7BJ3WQXGAK/CERTIFICATE_LANDING_PAGE~5B7BJ3WQXGAK.jpeg[link="https://coursera.org/share/b515301d8c054c962137e26a9cec20ae"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CWJ4HEV447MX/CERTIFICATE_LANDING_PAGE~CWJ4HEV447MX.jpeg[link="https://coursera.org/share/6355e3b760f7dd9ba1b9b9561fa9b774"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~92JPZRK3JAXC/CERTIFICATE_LANDING_PAGE~92JPZRK3JAXC.jpeg[link="https://coursera.org/share/d1a371d47a4e1fa1c836c068bef12370"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5VXM96KHX8J8/CERTIFICATE_LANDING_PAGE~5VXM96KHX8J8.jpeg[link="https://coursera.org/share/f1b7901e067ac18d96bf3f2b9830b685"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4FHGKPH6WNHP/CERTIFICATE_LANDING_PAGE~4FHGKPH6WNHP.jpeg[link="https://coursera.org/share/8cce8e8886f6f370f4ffac4238e93bef"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~WSYWDZDMPLNB/CERTIFICATE_LANDING_PAGE~WSYWDZDMPLNB.jpeg[link="https://coursera.org/share/60654ea285bd6a95559ae3b5b48b485d"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~J3VXT7CB7XSX/CERTIFICATE_LANDING_PAGE~J3VXT7CB7XSX.jpeg[link="https://coursera.org/share/25f32445bf7573e8948feb9400062483"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ZDWDX3DCTE8X/CERTIFICATE_LANDING_PAGE~ZDWDX3DCTE8X.jpeg[link="https://coursera.org/share/ae28e7b7ce95c956295461c3204653ee"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GMT794F4CVWH/CERTIFICATE_LANDING_PAGE~GMT794F4CVWH.jpeg[link="https://coursera.org/share/7c48c628264e19c3fdcfcc6104d2b0a8"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~9CW8FNKQJ2NR/CERTIFICATE_LANDING_PAGE~9CW8FNKQJ2NR.jpeg[link="https://coursera.org/share/c03af33ceddfbdcc60bf021ef6a9beea"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~R6JPK5GYMRDL/CERTIFICATE_LANDING_PAGE~R6JPK5GYMRDL.jpeg[link="https://coursera.org/share/f97537826e67dd508aeb0d1b04b3cd4e"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5B73GH2LA3ZG/CERTIFICATE_LANDING_PAGE~5B73GH2LA3ZG.jpeg[link="https://coursera.org/share/8925020de3730aab467dd2edc0366f48"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~7LHFCRRNSGPA/CERTIFICATE_LANDING_PAGE~7LHFCRRNSGPA.jpeg[link="https://coursera.org/share/f4092f4b0b1e6b257623b48013cb1fee"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~T8HB2WU8W3B4/CERTIFICATE_LANDING_PAGE~T8HB2WU8W3B4.jpeg[link="https://coursera.org/share/5e09d01e0f0cf16e76a46aa975761029"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GZTPD6TWSK7X/CERTIFICATE_LANDING_PAGE~GZTPD6TWSK7X.jpeg[link="https://coursera.org/share/5e138a906f349277f3a36bfd85f0e2b8"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6R7Z4CJXWMG4/CERTIFICATE_LANDING_PAGE~6R7Z4CJXWMG4.jpeg[link="https://coursera.org/share/cc220a526e344fe837cc48266cc19a07"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6AKPKFRHPZNG/CERTIFICATE_LANDING_PAGE~6AKPKFRHPZNG.jpeg[link="https://coursera.org/share/4547065b7be6f05167181ad0887c7d89"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~8REHUWJXHEUU/CERTIFICATE_LANDING_PAGE~8REHUWJXHEUU.jpeg[link="https://coursera.org/share/4cba8610196515aad75e4cd03a324609"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KBD4XZ5RUVNL/CERTIFICATE_LANDING_PAGE~KBD4XZ5RUVNL.jpeg[link="https://coursera.org/share/a76ed1bfa4fcf048a360d56e581f2e5c"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~R8LYPYVZTH7V/CERTIFICATE_LANDING_PAGE~R8LYPYVZTH7V.jpeg[link="https://coursera.org/share/163f8e3661b3b0e74a0adeffc1d23d9b"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JCLA2LT3VXUB/CERTIFICATE_LANDING_PAGE~JCLA2LT3VXUB.jpeg[link="https://coursera.org/share/85b0813af52b25831ebb6238041b9f76"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~B36VDHLX8E76/CERTIFICATE_LANDING_PAGE~B36VDHLX8E76.jpeg[link="https://coursera.org/share/81587e9dc9f933992814429f6ca2acfc"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TVLR5ZZZA335/CERTIFICATE_LANDING_PAGE~TVLR5ZZZA335.jpeg[link="https://coursera.org/share/ec18a038b88063672372648aa36184af"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~HJWKJPPCQGGJ/CERTIFICATE_LANDING_PAGE~HJWKJPPCQGGJ.jpeg[link="https://coursera.org/share/ab3845d91e5c3d8ba23f0e4fc3552b62"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KGMY3BCN85SH/CERTIFICATE_LANDING_PAGE~KGMY3BCN85SH.jpeg[link="https://coursera.org/share/ad02915af01f6349aa9521255de6b354"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~8T2M3XJJCS49/CERTIFICATE_LANDING_PAGE~8T2M3XJJCS49.jpeg[link="https://coursera.org/share/ee1ea6e110c3a904d070b134962f7d31"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~3SE5DFSDLANT/CERTIFICATE_LANDING_PAGE~3SE5DFSDLANT.jpeg[link="https://coursera.org/share/7dd06fdb49447c125800c76a10575d93"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~8AJTDA7A5RGP/CERTIFICATE_LANDING_PAGE~8AJTDA7A5RGP.jpeg[link="https://coursera.org/share/38cafb3299393e18cf27145310621182"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~W4Z5JYJUBDVP/CERTIFICATE_LANDING_PAGE~W4Z5JYJUBDVP.jpeg[link="https://coursera.org/share/aa20bfe179decbf3f578c2d138e011ed"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~22P8HQ88FHEN/CERTIFICATE_LANDING_PAGE~22P8HQ88FHEN.jpeg[link="https://coursera.org/share/ab23e6858e4ac45ede1f618110972a0c"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~VEEX2ZEWNJJR/CERTIFICATE_LANDING_PAGE~VEEX2ZEWNJJR.jpeg[link="https://coursera.org/share/2a013f61681d23d17eae59abd6fce963"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~365T2D6K2VRC/CERTIFICATE_LANDING_PAGE~365T2D6K2VRC.jpeg[link="https://coursera.org/share/d9368f6c067e0961bea2a05bda33fb64"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~46R3NRWXNW9S/CERTIFICATE_LANDING_PAGE~46R3NRWXNW9S.jpeg[link="https://coursera.org/share/486788c1d1b77d7524559b0a2a93482b"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4LJ996WBPU6E/CERTIFICATE_LANDING_PAGE~4LJ996WBPU6E.jpeg[link="https://coursera.org/share/90dd3805646249e26465abf12eb2d40a"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~QPSMB364TVWC/CERTIFICATE_LANDING_PAGE~QPSMB364TVWC.jpeg[link="https://coursera.org/share/c205302fa1398bfebfdb96f8cd747b04"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FG88DYTEN3UN/CERTIFICATE_LANDING_PAGE~FG88DYTEN3UN.jpeg[link="https://coursera.org/share/16627984871898857ad780048d61e70a"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~PJLBX8PE89U4/CERTIFICATE_LANDING_PAGE~PJLBX8PE89U4.jpeg[link="https://coursera.org/share/05013f1cb0a9ab1a87c993f97eff81b9"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~RAPU9GV772DA/CERTIFICATE_LANDING_PAGE~RAPU9GV772DA.jpeg[link="https://coursera.org/share/31d14a9c2e7b9e6f80182de4944e7c2a"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~C22ZNPSL2NFH/CERTIFICATE_LANDING_PAGE~C22ZNPSL2NFH.jpeg[link="https://coursera.org/share/0e779be615f81892000927c29c68fe74"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ATXHNGW3UT3J/CERTIFICATE_LANDING_PAGE~ATXHNGW3UT3J.jpeg[link="https://coursera.org/share/5d597194c3e8a0e2a62b75dcf3178446"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~W5ZPRBGJUVCZ/CERTIFICATE_LANDING_PAGE~W5ZPRBGJUVCZ.jpeg[link="https://coursera.org/share/bd5c65e9094a418d8772a7e3257e6ecf"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~3VCXMFLUB7ZC/CERTIFICATE_LANDING_PAGE~3VCXMFLUB7ZC.jpeg[link="https://coursera.org/share/7963e928d15c159e2452b2e7ff25934b"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~DZVMZMYHSW92/CERTIFICATE_LANDING_PAGE~DZVMZMYHSW92.jpeg[link="https://coursera.org/share/99bd0f478957179f7b6d1ea562386820"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SW6629AXSF8J/CERTIFICATE_LANDING_PAGE~SW6629AXSF8J.jpeg[link="https://coursera.org/share/a26d190d550afd902189d95092061d64"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UJLJV2ETTM8X/CERTIFICATE_LANDING_PAGE~UJLJV2ETTM8X.jpeg[link="https://coursera.org/share/e47e0febb38e3bb894305381614132db"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~F7DVVMRTPM5Q/CERTIFICATE_LANDING_PAGE~F7DVVMRTPM5Q.jpeg[link="https://coursera.org/share/8213b0c0251a733761f6aba016f1b833"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~9U9TW5UH27C6/CERTIFICATE_LANDING_PAGE~9U9TW5UH27C6.jpeg[link="https://coursera.org/share/e26d6c802dfad191f1f47929d8715c31"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NG8X99R9VWGX/CERTIFICATE_LANDING_PAGE~NG8X99R9VWGX.jpeg[link="https://coursera.org/share/a16e1b64e7753cb9603a07790469386b"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~7LUAPFS54L8X/CERTIFICATE_LANDING_PAGE~7LUAPFS54L8X.jpeg[link="https://coursera.org/share/eca242b53cc3a88d33e80e9fe7e58939"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~QHZ5L2PW4XTN/CERTIFICATE_LANDING_PAGE~QHZ5L2PW4XTN.jpeg[link="https://coursera.org/share/677b6043333db5fe1c65a3f5e9f65505"]
+
+a|
+image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~Q3HNFYH7LYQB/CERTIFICATE_LANDING_PAGE~Q3HNFYH7LYQB.jpeg[link="https://coursera.org/share/363c59fa8454cf2b79f1897784ff8331"]
+
+|===
+
+> Some of the information has been redacted for privacy reasons, but you can contact my mossad agent for more info <3!
+
+> Despite all of this and being a kawaii coworker, I'm still unemployed :(. If you're hiring, lemme know. Thanks for the help <3!
+
+==== 📚 Kawaii Books
+
+> I wrote this book a while ago to document my Rust learnings, it took me around 6 months of 12 hours daily writing and research to compile it in this form.
+
+> image::https://github.com/wiseaidev/wiseaidev/blob/main/assets/kawaii-bok.png[link="https://www.amazon.com/Ultimate-Rust-Systems-Programming-Architecting-ebook/dp/B0CYLWK6WR"]
+
+> However, i am not currently earning anything from it due to my country and the corrupted financial system. Unfortunatly, there is no viable way you can support me atm :(.
 
 > ⚠️ Disclaimer: All of my work on the internet was made possible by awesome hoomans, me and with the lil help of LLMs. We, humans, are still the thoughts behind everything. This work won't be possible if we never existed on this kawaii planet <3.
