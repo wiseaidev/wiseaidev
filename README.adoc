@@ -10,40 +10,28 @@
 
 > Agent 👉 https://github.com/wiseaidotdev/lmm/tree/main/examples/arc-lmm-agent[🕹️ LMM Agent 🗿]
 
+==== 📰 Latest Articles
+
 [cols="1,1", frame="none", grid="none"]
 |===
 a|
-https://wiseai.dev/blogs/knowledge-and-intelligence-are-mutually-exclusive[16. Knowledge and Intelligence ARE Mutually Exclusive.]
+https://wiseai.dev/blogs/knowledge-and-intelligence-are-mutually-exclusive[9. Knowledge and Intelligence ARE Mutually Exclusive.]
 
-https://wiseai.dev/blogs/genuine-intelligence-will-never-emerge-from-neural-networks[15. Genuine Intelligence Will Never in Trillion Years Emerge From Neural Networks.]
+https://wiseai.dev/blogs/genuine-intelligence-will-never-emerge-from-neural-networks[8. Genuine Intelligence Will Never in Trillion Years Emerge From Neural Networks.]
 
-https://wiseai.dev/blogs/all-you-have-access-to-is-knowledge-and-tools-never-intelligence[14. All You Have Access to Is Knowledge and Tools. Never Intelligence.]
+https://wiseai.dev/blogs/all-you-have-access-to-is-knowledge-and-tools-never-intelligence[7. All You Have Access to Is Knowledge and Tools. Never Intelligence.]
 
-https://wiseai.dev/blogs/the-penguins-are-already-sentient-your-neural-network-is-just-a-distraction[13. The Penguins Are Already Sentient. Your Neural Network Is Just a Distraction.]
+https://wiseai.dev/blogs/the-penguins-are-already-sentient-your-neural-network-is-just-a-distraction[6. The Penguins Are Already Sentient. Your Neural Network Is Just a Distraction.]
 
-https://wiseai.dev/blogs/training-is-an-evil-concept-lmms-eliminates-it-altogether[12. Training Is an Evil Concept. LMMs Eliminates It Altogether.]
+https://wiseai.dev/blogs/training-is-an-evil-concept-lmms-eliminates-it-altogether[5. Training Is an Evil Concept. LMMs Eliminates It Altogether.]
 
-https://wiseai.dev/blogs/llms-destroyed-the-internet-lmms-will-make-it-alive[11. LLMs Destroyed the Internet. LMMs Will Make It Alive.]
+https://wiseai.dev/blogs/llms-destroyed-the-internet-lmms-will-make-it-alive[4. LLMs Destroyed the Internet. LMMs Will Make It Alive.]
 
-https://wiseai.dev/blogs/pharaohs-were-the-first-to-achieve-asi[10. Pharaohs Were the First to Achieve ASI.]
+https://wiseai.dev/blogs/pharaohs-were-the-first-to-achieve-asi[3. Pharaohs Were the First to Achieve ASI.]
 
-https://wiseai.dev/blogs/mathematical-equations-are-multimodal-by-default[9. Mathematical Equations are Multimodal by Default.]
+https://wiseai.dev/blogs/mathematical-equations-are-multimodal-by-default[2. Mathematical Equations are Multimodal by Default.]
 
-https://wiseai.dev/blogs/llms-are-usefull-lmms-will-break-reality[8. LLMs are Useful. LMMs will Break Reality.]
-
-https://wiseai.dev/blogs/christianity-makes-perfect-sense[7. Christianity Makes Perfect Sense.]
-
-https://wiseai.dev/blogs/language-is-limited-asi-is-impossible[6. Language is Limited. ASI is Impossible.]
-
-https://wiseai.dev/blogs/technology-has-destroyed-my-livelihood[5. Technology Has Destroyed My Livelihood.]
-
-https://wiseai.dev/blogs/as-engineers-llms-should-pay-us-for-tokens-usage[4. As Engineers, LLMs should pay us for tokens usage.]
-
-https://wiseai.dev/blogs/it-is-always-the-russians[3. It is always the Russians.]
-
-https://wiseai.dev/blogs/an-empty-life-filled-with-constant-suffering[2. An Empty Life Filled With Constant Suffering.]
-
-https://wiseai.dev/blogs/who-am-i[1. Who am I?]
+https://wiseai.dev/blogs/llms-are-usefull-lmms-will-break-reality[1. LLMs are Useful. LMMs will Break Reality.]
 
 a|
 image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/life-is-gud++.png[writing, width=520]
@@ -293,5 +281,9 @@ image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICAT
 > image::https://github.com/wiseaidev/wiseaidev/blob/main/assets/kawaii-bok.png[link="https://www.amazon.com/Ultimate-Rust-Systems-Programming-Architecting-ebook/dp/B0CYLWK6WR"]
 
 > However, i am not currently earning anything from it due to my country and the corrupted financial system. Unfortunatly, there is no viable way you can support me atm :(.
+
+==== 🌐 Social Media
+
+> I used to be active on LinkedIn and Twitter, but I abandoned both because I can no longer tolerate the slop. LLMs are useful when used responsibly, but this slippery, fully automated flood of low-quality content is poisoning the internet.
 
 > ⚠️ Disclaimer: All of my work on the internet was made possible by awesome hoomans, me and with the lil help of LLMs. We, humans, are still the thoughts behind everything. This work won't be possible if we never existed on this kawaii planet <3.
