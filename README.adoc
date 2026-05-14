@@ -15,25 +15,26 @@
 [cols="1,1", frame="none", grid="none"]
 |===
 a|
-https://wiseai.dev/blogs/be-aware-of-the-current-ufos-pandemic-remember-we-are-alone[10. Be Aware of The Current UFOs Pandemic. Remember, We Are Alone.]
+https://wiseai.dev/blogs/if-you-cant-build-agi-then-why-should-we-hire-you[10. If You Can't Build AGI, Then Why Should We Hire You?
+]
 
-https://wiseai.dev/blogs/knowledge-and-intelligence-are-mutually-exclusive[9. Knowledge and Intelligence ARE Mutually Exclusive.]
+https://wiseai.dev/blogs/be-aware-of-the-current-ufos-pandemic-remember-we-are-alone[9. Be Aware of The Current UFOs Pandemic. Remember, We Are Alone.]
 
-https://wiseai.dev/blogs/genuine-intelligence-will-never-emerge-from-neural-networks[8. Genuine Intelligence Will Never in Trillion Years Emerge From Neural Networks.]
+https://wiseai.dev/blogs/knowledge-and-intelligence-are-mutually-exclusive[8. Knowledge and Intelligence ARE Mutually Exclusive.]
 
-https://wiseai.dev/blogs/all-you-have-access-to-is-knowledge-and-tools-never-intelligence[7. All You Have Access to Is Knowledge and Tools. Never Intelligence.]
+https://wiseai.dev/blogs/genuine-intelligence-will-never-emerge-from-neural-networks[7. Genuine Intelligence Will Never in Trillion Years Emerge From Neural Networks.]
 
-https://wiseai.dev/blogs/the-penguins-are-already-sentient-your-neural-network-is-just-a-distraction[6. The Penguins Are Already Sentient. Your Neural Network Is Just a Distraction.]
+https://wiseai.dev/blogs/all-you-have-access-to-is-knowledge-and-tools-never-intelligence[6. All You Have Access to Is Knowledge and Tools. Never Intelligence.]
 
-https://wiseai.dev/blogs/training-is-an-evil-concept-lmms-eliminates-it-altogether[5. Training Is an Evil Concept. LMMs Eliminates It Altogether.]
+https://wiseai.dev/blogs/the-penguins-are-already-sentient-your-neural-network-is-just-a-distraction[5. The Penguins Are Already Sentient. Your Neural Network Is Just a Distraction.]
 
-https://wiseai.dev/blogs/llms-destroyed-the-internet-lmms-will-make-it-alive[4. LLMs Destroyed the Internet. LMMs Will Make It Alive.]
+https://wiseai.dev/blogs/training-is-an-evil-concept-lmms-eliminates-it-altogether[4. Training Is an Evil Concept. LMMs Eliminates It Altogether.]
 
-https://wiseai.dev/blogs/pharaohs-were-the-first-to-achieve-asi[3. Pharaohs Were the First to Achieve ASI.]
+https://wiseai.dev/blogs/llms-destroyed-the-internet-lmms-will-make-it-alive[3. LLMs Destroyed the Internet. LMMs Will Make It Alive.]
 
-https://wiseai.dev/blogs/mathematical-equations-are-multimodal-by-default[2. Mathematical Equations are Multimodal by Default.]
+https://wiseai.dev/blogs/pharaohs-were-the-first-to-achieve-asi[2. Pharaohs Were the First to Achieve ASI.]
 
-https://wiseai.dev/blogs/llms-are-usefull-lmms-will-break-reality[1. LLMs are Useful. LMMs will Break Reality.]
+https://wiseai.dev/blogs/mathematical-equations-are-multimodal-by-default[1. Mathematical Equations are Multimodal by Default.]
 
 a|
 image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/life-is-gud++.png[writing, width=520]
