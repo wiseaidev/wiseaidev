@@ -1,5 +1,18 @@
 ==== Sup image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/crab-wave-hand-crab.gif[Hacking Crabby Crab with dababy GIF, width=60]
 
+> I am currently welding:
+
+[cols="1,1", frame="none", grid="none"]
+|===
+a|
+image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/kawaii-welder.png[kawaii-welder.png, width=520]
+
+a|
+image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/weld.jpeg[weld.jpeg, width=520]
+|===
+
+> I will be back maintaining these projects once I get an engineering job <3. Bye, but hopefully not a final goodbye!
+
 > I'm currently unemployed, and because of that, I've been focusing on building open-source startups. Since sponsorship isn't an option for me due to my location, I've decided to take part in the ongoing https://arcprize.org/arc-agi/3[ARC AGI 3] contest and aim for first place 🤞.
 
 > If I'm fortunate enough to secure funding, I plan to use it to recruit humble bumble hoomans and continue developing what we've already started, real super intelligence: ethical, responsible, and designed to benefit humanity.
@@ -51,6 +64,10 @@ image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/life-is-gud++.png[
 > Even Cargo can't take it anymore. How am I supposed to carry all this weight?
 
 > image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/cargo-wat.png[cargo-wat.png]
+
+> Ain't no way you can convince me to use Linkedin these days, bro. It is ackchyually the other way around, smh:
+
+> image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/linkedbots.png[linkedbots.png]
 
 > If you are reading this from https://www.youtube.com/watch?v=A_zAvt-sFxk[Isreal that recently wiped out the entire city I used to live in], please don't tell the cuties <3.
 
