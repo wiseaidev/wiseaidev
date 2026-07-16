@@ -28,6 +28,9 @@ image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/weld.jpeg[weld.jpe
 [cols="1,1", frame="none", grid="none"]
 |===
 a|
+https://wiseai.dev/blogs/i-miss-the-pre-ai-mossad-agents[11. I miss the pre-AI Mossad agents.
+]
+
 https://wiseai.dev/blogs/if-you-cant-build-agi-then-why-should-we-hire-you[10. If You Can't Build AGI, Then Why Should We Hire You?
 ]
 
@@ -69,23 +72,37 @@ image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/life-is-gud++.png[
 
 > image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/linkedbots.png[linkedbots.png]
 
+> If you are using Linkedin, you are definitely a bot!
+
 > If you are reading this from https://www.youtube.com/watch?v=A_zAvt-sFxk[Isreal that recently wiped out the entire city I used to live in], please don't tell the cuties <3.
 
 > I know that you know that I know. Please keep it a secret bro <3!
 
 > Sometimes, https://steamcommunity.com/id/wiseaidev[I play CS2 on Steam] to interact with Russians and better understand why the Soviets did what they did. So far, all my interactions have been wholesome <3.
 
-> My mossad agent reaction after monitoring my conversations 😎:
+> My Mossad agent reaction after monitoring my conversations 😎:
 
 > image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/cool-agent.gif[cool-agent.gif]
 
 > If you are hiring, lemme know. Thanks for the help <3!
 
-> My mossad agent when being interrogated about last year's unpaid compute and electricity bill:
+> My Mossad agent when being interrogated about last year's unpaid compute and electricity bill:
 
 > image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/no-no-no.gif[no-no-no.gif]
 
 > I promise to pay the bill once I get a job. Until then, thanks for the scholarship!
+
+> My Mossad agent reaction after realizing that I keep shifting towards the worst possible timeline:
+
+> image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/nyet.gif[nyet.gif]
+
+> I promise I am doing my best!
+
+> Bro just nuked the entire transparency factor; Copilot be managin' Github rn:
+
+> image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/transparency-aint-no-moe.png[transparency-aint-no-moe.png]
+
+> Ain't no way i am starring a repo created after June 30, 2026. You either remove stars altogether or just keep it public for us to know which ones are fake.
 
 > Sending our most charming intern to pitch our ASI startup to YC:
 
@@ -290,7 +307,7 @@ image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICAT
 
 |===
 
-> Some of the information has been redacted for privacy reasons, but you can contact my mossad agent for more info <3!
+> Some of the information has been redacted for privacy reasons, but you can contact my Mossad agent for more info <3!
 
 > Despite all of this and being a kawaii coworker, I'm still unemployed :(. If you're hiring, lemme know. Thanks for the help <3!
 
