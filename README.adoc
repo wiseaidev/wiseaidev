@@ -28,6 +28,9 @@ image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/weld.jpeg[weld.jpe
 [cols="1,1", frame="none", grid="none"]
 |===
 a|
+https://wiseai.dev/blogs/intelligence-at-rest[12. Intelligence at Rest.
+]
+
 https://wiseai.dev/blogs/i-miss-the-pre-ai-mossad-agents[11. I miss the pre-AI Mossad agents.
 ]
 
@@ -103,6 +106,10 @@ image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/life-is-gud++.png[
 > image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/transparency-aint-no-moe.png[transparency-aint-no-moe.png]
 
 > Ain't no way i am starring a repo created after June 30, 2026. You either remove stars altogether or just keep it public for us to know which ones are fake.
+
+> Society if Github deleted stars count:
+
+> image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/sushiciety.gif[sushiciety.gif]
 
 > Sending our most charming intern to pitch our ASI startup to YC:
 
