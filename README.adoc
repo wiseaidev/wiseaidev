@@ -17,8 +17,6 @@ a|
 image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/weld.jpeg[weld.jpeg, width=520]
 |===
 
-> I will be back maintaining these projects once I get an engineering job <3. Bye, but hopefully not a final goodbye!
-
 > I'm currently unemployed, and because of that, I've been focusing on building open-source startups. Since sponsorship isn't an option for me due to my location, I've decided to take part in the ongoing https://arcprize.org/arc-agi/3[ARC AGI 3] contest and aim for first place 🤞.
 
 > If I'm fortunate enough to secure funding, I plan to use it to recruit humble bumble hoomans and continue developing what we've already started, real super intelligence: ethical, responsible, and designed to benefit humanity.
@@ -34,6 +32,9 @@ image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/weld.jpeg[weld.jpe
 [cols="1,1", frame="none", grid="none"]
 |===
 a|
+http://wiseai.dev/blogs/this-is-why-my-profile-picture-is-now-a-shigure-ui-picture[13. This Is Why My profile picture is now a shigure ui picture.
+]
+
 https://wiseai.dev/blogs/intelligence-at-rest[12. Intelligence at Rest.
 ]
 
