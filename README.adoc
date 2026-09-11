@@ -7,19 +7,20 @@
 [cols="1,1", frame="none", grid="none"]
 |===
 a|
-https://wiseai.dev/blogs/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts[5. I Built a Version Bump Tool in Rust That Is 10,000x Faster Than Its Python Counterparts.
+
+https://wiseai.dev/blogs/i-optimized-my-bump-version-tool-and-made-it-1000000x-faster-than-its-python-counterparts[5. I Optimized My Bump Version Tool and Made It 1,000,000x Faster Than Its Python Counterparts
 ]
 
-https://wiseai.dev/blogs/jesus-was-right-you-are-god-and-infinite[4. Jesus Was Right. You Are God and Infinite.
+https://wiseai.dev/blogs/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts[4. I Built a Version Bump Tool in Rust That Is 10,000x Faster Than Its Python Counterparts.
 ]
 
-https://wiseai.dev/blogs/life-on-earth-is-100-ai-generated-slop[3. Life On Earth is 100% AI Generated Slop.
+https://wiseai.dev/blogs/jesus-was-right-you-are-god-and-infinite[3. Jesus Was Right. You Are God and Infinite.
 ]
 
-http://wiseai.dev/blogs/this-is-why-my-profile-picture-is-now-a-shigure-ui-picture[2. This Is Why My profile picture is now a shigure ui picture.
+https://wiseai.dev/blogs/life-on-earth-is-100-ai-generated-slop[2. Life On Earth is 100% AI Generated Slop.
 ]
 
-https://wiseai.dev/blogs/intelligence-at-rest[1. Intelligence at Rest.
+http://wiseai.dev/blogs/this-is-why-my-profile-picture-is-now-a-shigure-ui-picture[1. This Is Why My profile picture is now a shigure ui picture.
 ]
 
 a|
