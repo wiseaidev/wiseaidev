@@ -148,6 +148,18 @@ image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/weld.jpeg[weld.jpe
 
 > I'll try my best not to disappear 🫡.
 
+> Me vibe coding with ms. Claudette:
+
+> image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/vibe-coding-with-ms-claudette.gif[vibe-coding-with-ms-claudette.gif]
+
+> Such a fun tool to tamper with! + rep for Anthropic research.
+
+> Bro be tryna predict my next move:
+
+> image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/kawaii-ceo.gif[kawaii-ceo.gif]
+
+> Despite letting bro train on all my publicly available knowledge, he still can't predict which neuron I'll fire next. He can't even correctly predict my upcoming blog post title. But, nice try!
+
 ==== 🦄 kawaii Achievements
 
 > The following is a collection of degrees and certificates achieved around 2020 and somewhat define what i am today. Still same intelligence tho, but with more sophisticated knowledge that i am currently utilizing to expand the AI space.
@@ -343,7 +355,13 @@ image::https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICAT
 
 > image::https://github.com/wiseaidev/wiseaidev/blob/main/assets/kawaii-bok.png[link="https://www.amazon.com/Ultimate-Rust-Systems-Programming-Architecting-ebook/dp/B0CYLWK6WR"]
 
-> However, i am not currently earning anything from it due to my country and the corrupted financial system. Unfortunatly, there is no viable way you can support me atm :(.
+> However, i am not currently earning anything from it due to my country and the corrupted financial system.
+
+> Not even Ko-fi available here :-(:
+
+> image::https://github.com/wiseaidev/wiseaidev/blob/main/assets/kofi-<3.png[kofi-<3.png]
+
+> Unfortunatly, there is no viable way you can support me atm :-(.
 
 ==== 🌐 Social Media
 
