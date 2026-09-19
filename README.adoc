@@ -8,19 +8,18 @@
 |===
 a|
 
-https://wiseai.dev/blogs/i-optimized-my-bump-version-tool-and-made-it-1000000x-faster-than-its-python-counterparts[5. I Optimized My Bump Version Tool and Made It 1,000,000x Faster Than Its Python Counterparts
+https://wiseai.dev/blogs/frozendict-state-of-the-art-immutable-hashmap[5. Frozendict: State of the Art Immutable Hashmap]
+
+https://wiseai.dev/blogs/i-optimized-my-bump-version-tool-and-made-it-1000000x-faster-than-its-python-counterparts[4. I Optimized My Bump Version Tool and Made It 1,000,000x Faster Than Its Python Counterparts
 ]
 
-https://wiseai.dev/blogs/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts[4. I Built a Version Bump Tool in Rust That Is 10,000x Faster Than Its Python Counterparts.
+https://wiseai.dev/blogs/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts[3. I Built a Version Bump Tool in Rust That Is 10,000x Faster Than Its Python Counterparts.
 ]
 
-https://wiseai.dev/blogs/jesus-was-right-you-are-god-and-infinite[3. Jesus Was Right. You Are God and Infinite.
+https://wiseai.dev/blogs/jesus-was-right-you-are-god-and-infinite[2. Jesus Was Right. You Are God and Infinite.
 ]
 
-https://wiseai.dev/blogs/life-on-earth-is-100-ai-generated-slop[2. Life On Earth is 100% AI Generated Slop.
-]
-
-http://wiseai.dev/blogs/this-is-why-my-profile-picture-is-now-a-shigure-ui-picture[1. This Is Why My profile picture is now a shigure ui picture.
+https://wiseai.dev/blogs/life-on-earth-is-100-ai-generated-slop[1. Life On Earth is 100% AI Generated Slop.
 ]
 
 a|
@@ -81,6 +80,16 @@ image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/weld.jpeg[weld.jpe
 > I love penguins 🐧.
 
 > image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/penguins.jpeg[penguins.jpeg]
+
+> Penguin mario is kinda cute tho:
+
+> image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/kawaii-mario.jpg[kawaii-mario.jpg]
+
+> Shigure UI loves Penguins:
+
+> image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/kawaii-shig.webp[kawaii-shig.webp]
+
+> Penguins love Shigure UI <3.
 
 > Nah, Arch is life <3.
 
@@ -148,7 +157,7 @@ image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/weld.jpeg[weld.jpe
 
 > I'll try my best not to disappear 🫡.
 
-> Me vibe coding with ms. Claudette:
+> Me Claude vibing with code:
 
 > image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/vibe-coding-with-ms-claudette.gif[vibe-coding-with-ms-claudette.gif]
 
@@ -159,6 +168,18 @@ image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/weld.jpeg[weld.jpe
 > image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/kawaii-ceo.gif[kawaii-ceo.gif]
 
 > Despite letting bro train on all my publicly available knowledge, he still can't predict which neuron I'll fire next. He can't even correctly predict my upcoming blog post title. But, nice try!
+
+> Kidding, my neuron firing is pretty deterministic:
+
+> image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/kawaii-neuron-act.png[kawaii-neuron-act.png]
+
+> Least sane AI researcher at anthropic rn:
+
+> image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/kawaii-researcher.jpg[kawaii-researcher.jpg]
+
+> Ms. Claudette is playing a very hard game called "engineering" in 2026:
+
+> image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/claudette-playing-engineering.gif[claudette-playing-engineering.gif]
 
 ==== 🦄 kawaii Achievements
 
