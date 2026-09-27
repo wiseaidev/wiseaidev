@@ -30,19 +30,20 @@ image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/life-is-gud++.png[
 [cols="1,1", frame="none", grid="none"]
 |===
 a|
-https://opensass.org/blogs/pride-rs-010-release[5. 🏳️‍🌈 Pride RS 0.1.0: Dropping the T from LGBTQ+ & Mark It as Haram.
+
+https://opensass.org/blogs/card-rs-release[5. 🃏 Card RS: Extremely Customizable Card component for WASM frameworks
 ]
 
-https://opensass.org/blogs/sushi-rs-release[4. 🍣 Sushi RS: SVG Sushi Components for Rust Frontends.
+https://opensass.org/blogs/badge-rs-release[4. 🔴 Badge RS: Easy to Use Badge Components for WASM Frameworks
 ]
 
-https://opensass.org/blogs/pride-hero-release[3. 🏳️‍⚧️ Pride Hero: LGBTQ+ Landing Page for WASM Frameworks.
+https://opensass.org/blogs/avatar-rs-release[3. 🪪 Avatar RS: Very Efficient Avatar Components for WASM Frameworks
 ]
 
-https://opensass.org/blogs/pride-rs-release[2. 🏳️‍🌈 Pride RS: LGBTQ+ Flag Component for Rust Frontends.
+https://opensass.org/blogs/pride-rs-010-release[2. 🏳️‍🌈 Pride RS 0.1.0: Dropping the T from LGBTQ+ & Mark It as Haram.
 ]
 
-https://opensass.org/blogs/hero-release[1. 🦸 Hero: A WASM-Ready Hero Section Component.
+https://opensass.org/blogs/sushi-rs-release[1. 🍣 Sushi RS: SVG Sushi Components for Rust Frontends.
 ]
 
 a|
